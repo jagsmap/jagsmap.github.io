@@ -15,7 +15,7 @@ use_fontawesome: true
         </a>
 </div>
 <div class="col-12 col-sm-8">
-    <h4>Undergraduate Researcher: Exploring the use of Citizen Science <br> Data in Model-Based Sampling</h4>
+    <h4>Undergraduate Researcher: Exploring the use of Citizen Science Data in Model-Based Sampling</h4>
     <h6>Cornell Lab of Ornithology</h6>
     <h8>
         <div>Sep 2018 – Dec 2018</div>
