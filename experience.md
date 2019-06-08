@@ -135,4 +135,3 @@ use_fontawesome: true
     <p><span class="bold">Student-lead</span></p>
 </div>
 </div>
-<hr>
