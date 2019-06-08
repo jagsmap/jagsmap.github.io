@@ -30,7 +30,6 @@ use_fontawesome: true
     <p><span class="bold">Mentors:</span> Dr. Frank La Sorte, Dr. David Bonter</p>
 </div>
 </div>
-<hr>
 
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
@@ -55,7 +54,6 @@ use_fontawesome: true
     <p><span class="bold">Mentor:</span> Dr. Andrew Vitz</p>
 </div>
 </div>
-<hr>
 
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
@@ -79,7 +77,6 @@ use_fontawesome: true
     <p><span class="bold">Mentor:</span> Drew Weber </p>
 </div>
 </div>
-<hr>
 
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
@@ -99,5 +96,11 @@ use_fontawesome: true
         <li>Collaborated with ecolodges to attract clients by incorporating sustainable practices </li>
         <li>Co-authored a consultancy guide to ‘Aviturismo’ (a.k.a. bird-watching tourism) </li>
     </ul>
+    <br>
+    <p><span class="bold">Student-lead</span></p>
 </div>
 </div>
+
+<h1 class="section-title">Coursework</h1>
+
+
