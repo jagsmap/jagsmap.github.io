@@ -36,6 +36,7 @@ use_fontawesome: true
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
     <br>
+    <br>
     <a href = "https://www.mass.gov/orgs/division-of-fisheries-and-wildlife" target="_blank">
             <img src="{{ site.baseurl }}/images/collabs/MassWildlife.png">
         </a>
