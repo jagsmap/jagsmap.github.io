@@ -52,7 +52,7 @@ use_fontawesome: true
         <li>Fitted MESA-listed Eastern Whip-poor-wills with geoolocator tracking devices</li>
     </ul>
     <br>
-    <p><span class="bold">Mentors:</span> Dr. Andrew Vitz</p>
+    <p><span class="bold">Mentor:</span> Dr. Andrew Vitz</p>
 </div>
 </div>
 <hr>
@@ -76,7 +76,7 @@ use_fontawesome: true
         <li>Assisted with the creation of country packs</li>
     </ul>
     <br>
-    <p><span class="bold">Mentors:</span> Drew Weber </p>
+    <p><span class="bold">Mentor:</span> Drew Weber </p>
 </div>
 </div>
 <hr>
