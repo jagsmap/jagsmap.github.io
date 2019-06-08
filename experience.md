@@ -1,10 +1,10 @@
 ---
-title: Research
+title: Experience
 layout: default
 use_fontawesome: true
 ---
 
-## Undergrad Researcher: Modeling persistent effects of West Nile virus on avian population dynamics
+### Undergrad Researcher: Modeling persistent effects of West Nile virus on avian population dynamics
 Sep 2015 – May 2019
 Ithaca, New York Area
 - Designed and conducted an independent research project (honors thesis) 
