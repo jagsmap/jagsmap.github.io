@@ -4,6 +4,28 @@ layout: default
 use_fontawesome: true
 ---
 
+
+<!-- Research -->
+<h1 class="section-title">Positions</h1>
+
+<div class="row content-row">
+<div class="col-12 col-sm-4 image-wrapper">
+    <a href = "https://www.birds.cornell.edu/home/" target="_blank">
+            <img src="{{ site.baseurl }}/images/collabs/CLO.png">
+        </a>
+</div>
+<div class="col-12 col-sm-8">
+    <h4>Undergraduate Researcher: Exploring the use of Citizen Science <br> Data in Model-Based Sampling</h4>
+    <p class="italic">Sep 2018 – Dec 2018</p>
+- Identified a novel application of a statistical modeling method to citizen science data 
+- Designed a study to apply this method to inform species conservation efforts 
+- Initiated collaboration as primary researcher with two other undergraduates
+    <p><span class="bold">Mentors:</span> Dr. Frank La Sorte, Dr. David Bonter</p>
+</div>
+</div>
+<hr>
+
+
 <h1 class="section-title">Positions</h1>
 <h3>Undergraduate Researcher: Exploring the use of Citizen Science <br> Data in Model-Based Sampling</h3>
 <h6 class="italic">Cornell Lab of Ornithology</h6>
