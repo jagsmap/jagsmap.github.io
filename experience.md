@@ -55,6 +55,8 @@ use_fontawesome: true
     <p><span class="bold">Mentor:</span> Dr. Andrew Vitz</p>
 </div>
 </div>
+<br>
+<br>
 
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
