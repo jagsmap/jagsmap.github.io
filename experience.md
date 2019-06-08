@@ -30,10 +30,10 @@ use_fontawesome: true
     <p><span class="bold">Mentors:</span> Dr. Frank La Sorte, Dr. David Bonter</p>
 </div>
 </div>
-<br>
 
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
+    <br>
     <a href = "https://www.mass.gov/orgs/division-of-fisheries-and-wildlife" target="_blank">
             <img src="{{ site.baseurl }}/images/collabs/MassWildlife.png">
         </a>
@@ -55,8 +55,6 @@ use_fontawesome: true
     <p><span class="bold">Mentor:</span> Dr. Andrew Vitz</p>
 </div>
 </div>
-<br>
-<br>
 
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
@@ -80,7 +78,6 @@ use_fontawesome: true
     <p><span class="bold">Mentor:</span> Drew Weber </p>
 </div>
 </div>
-<br>
 
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
@@ -104,7 +101,6 @@ use_fontawesome: true
     <p><span class="bold">Student-lead</span></p>
 </div>
 </div>
-<br>
 
 <h1 class="section-title">Coursework</h1>
 
