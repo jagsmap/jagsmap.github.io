@@ -5,6 +5,7 @@ use_fontawesome: true
 ---
 
 ### Undergraduate Researcher: Exploring the use of Citizen Science Data in Model-Based Sampling
+Cornell Lab of Ornithology
 Sep 2018 – Dec 2018
 Ithaca, New York Area
 - Identified a novel application of a statistical modeling method to citizen science data 
@@ -21,6 +22,7 @@ Westborough, Massachusetts
 - Fitted MESA-listed Eastern Whip-poor-wills with geoolocator tracking devices
 
 ### App Developer & Data Manager - Merlin
+Cornell Lab of Ornithology
 Jun 2016 – May 2018
 Ithaca, New York Area
 (Merlin is a free app that offers bird ID and information for 3000+ species around the world)
@@ -29,6 +31,7 @@ Ithaca, New York Area
 - Assisted with the creation of country packs
 
 ### Ecotourism Consultancy Internship Designer
+Cornell University
 Oct 2017 – May 2018
 Ithaca, New York Area
 - Designed and coordinated an internship opportunity for undergraduates 
