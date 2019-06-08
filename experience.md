@@ -17,7 +17,6 @@ use_fontawesome: true
 <div class="col-12 col-sm-8">
     <h4>Undergraduate Researcher: Exploring the use of Citizen Science Data in Model-Based Sampling</h4>
     <h8>
-        <div>Cornell Lab of Ornithology</div>
         <div>Sep 2018 – Dec 2018</div>
         <div>Ithaca, New York Area</div>
     </h8>
@@ -35,14 +34,13 @@ use_fontawesome: true
 
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
-    <a href = "https://www.birds.cornell.edu/home/" target="_blank">
+    <a href = "https://www.mass.gov/orgs/division-of-fisheries-and-wildlife" target="_blank">
             <img src="{{ site.baseurl }}/images/collabs/MassWildlife.png">
         </a>
 </div>
 <div class="col-12 col-sm-8">
     <h4>Avian Conservation Intern</h4>
     <h8>
-        <div>Massachusetts Division of Fisheries and Wildlife (MassWildlife)</div>
         <div>May 2018 – Aug 2018</div>
         <div>Westborough, Massachusetts</div>
         <div><i>(Government internship)</i></div>
@@ -54,33 +52,56 @@ use_fontawesome: true
         <li>Fitted MESA-listed Eastern Whip-poor-wills with geoolocator tracking devices</li>
     </ul>
     <br>
-    <p><span class="bold">Mentors:</span> Dr. Frank La Sorte, Dr. David Bonter</p>
+    <p><span class="bold">Mentors:</span> Dr. Andrew Vitz</p>
 </div>
 </div>
 <hr>
 
-### Avian Conservation Intern
-*Massachusetts Division of Fisheries and Wildlife (MassWildlife)*
-May 2018 – Aug 2018
-Westborough, Massachusetts
-(Government internship) 
-- Conducted research with the State Ornithologist related to avian ecology and conservation 
-- Banded songbirds using a MAPS protocol, designed to inform natural resource management 
-- Fitted MESA-listed Eastern Whip-poor-wills with geoolocator tracking devices
+<div class="row content-row">
+<div class="col-12 col-sm-4 image-wrapper">
+    <a href = "https://www.birds.cornell.edu/home/" target="_blank">
+            <img src="{{ site.baseurl }}/images/collabs/CLO.png">
+        </a>
+</div>
+<div class="col-12 col-sm-8">
+    <h4>App Developer & Data Manager - Merlin</h4>
+    <h8>
+        <div>Jun 2016 – May 2018</div>
+        <div>Westborough, Massachusetts</div>
+        <div><i>(Government internship)</i></div>
+    </h8>
+    <br>
+    <ul>
+        <li>Developed software to create bird packs for geographic areas not bound by political regions</li>
+        <li>Managed media used by the app</li>
+        <li>Assisted with the creation of country packs</li>
+    </ul>
+    <br>
+    <p><span class="bold">Mentors:</span> Drew Weber </p>
+</div>
+</div>
+<hr>
 
-### App Developer & Data Manager - Merlin
-*Cornell Lab of Ornithology*
-Jun 2016 – May 2018
-Ithaca, New York Area
-(Merlin is a free app that offers bird ID and information for 3000+ species around the world)
-- Developed software to create bird packs for geographic areas not bound by political regions
-- Managed media used by the app
-- Assisted with the creation of country packs
-
-### Ecotourism Consultancy Internship Designer
-*Cornell University*
-Oct 2017 – May 2018
-Ithaca, New York Area
-- Designed and coordinated an internship opportunity for undergraduates 
-- Collaborated with ecolodges to attract clients by incorporating sustainable practices 
-- Co-authored a consultancy guide to ‘Aviturismo’ (a.k.a. bird-watching tourism)
+<div class="row content-row">
+<div class="col-12 col-sm-4 image-wrapper">
+    <a href = "https://dnr.cals.cornell.edu/" target="_blank">
+            <img src="{{ site.baseurl }}/images/collabs/Cornell.png">
+        </a>
+</div>
+<div class="col-12 col-sm-8">
+    <h4>Ecotourism Consultancy Internship Designer</h4>
+    <h8>
+        <div>Oct 2017 – May 2018</div>
+        <div>Ithaca, New York Area</div>
+    </h8>
+    <br>
+    <ul>
+        <li>Designed and coordinated an internship opportunity for undergraduates </li>
+        <li>Collaborated with ecolodges to attract clients by incorporating sustainable practices </li>
+        <li>Co-authored a consultancy guide to ‘Aviturismo’ (a.k.a. bird-watching tourism) </li>
+    </ul>
+    <br>
+    <p><span class="bold">Mentors:</span> Drew Weber </p>
+</div>
+</div>
+<hr>
