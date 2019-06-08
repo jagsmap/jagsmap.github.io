@@ -13,3 +13,11 @@ Ithaca, New York Area
 - Identified novel conclusions applicable to the fields of population and disease ecology 
 - Presented results at scientific conferences 
 - Writing a manuscript for publication in a peer-reviewed scientific journal 
+
+### App Developer & Data Manager - Merlin
+Jun 2016 – May 2018
+Ithaca, New York Area
+(Merlin is a free app that offers bird ID and information for 3000+ species around the world)
+- Developed software to create bird packs for geographic areas not bound by political regions
+- Managed media used by the app
+- Assisted with the creation of country packs
