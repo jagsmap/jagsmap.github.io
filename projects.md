@@ -33,4 +33,4 @@ use_fontawesome: true
     <p><span class="bold">Presentations:</span> Time, Space & Narrative in Medieval Icelandic Literature - University of Reykjavik, Iceland 2017</p>
 </div>
 </div>
-<hr>
+
