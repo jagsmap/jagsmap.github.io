@@ -5,11 +5,10 @@ use_fontawesome: true
 ---
 
 <h1 class="section-title">Positions</h1>
-<h2>Undergraduate Researcher: Exploring the use of Citizen Science <br> Data in Model-Based Sampling</h2>
-### Undergraduate Researcher: Exploring the use of Citizen Science <br> Data in Model-Based Sampling
-<h3 class="italic">Cornell Lab of Ornithology</h3>
-<h3>Sep 2018 – Dec 2018</h3>
-<h3>Ithaca, New York Area</h3>
+<h3>Undergraduate Researcher: Exploring the use of Citizen Science <br> Data in Model-Based Sampling</h3>
+<h6 class="italic">Cornell Lab of Ornithology</h6>
+<h6>Sep 2018 – Dec 2018</h6>
+<h6>Ithaca, New York Area</h6>
 - Identified a novel application of a statistical modeling method to citizen science data 
 - Designed a study to apply this method to inform species conservation efforts 
 - Initiated collaboration as primary researcher with two other undergraduates
