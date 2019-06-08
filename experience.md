@@ -16,8 +16,9 @@ use_fontawesome: true
 </div>
 <div class="col-12 col-sm-8">
     <h4>Undergraduate Researcher: Exploring the use of Citizen Science <br> Data in Model-Based Sampling</h4>
-    <p class="italic">Sep 2018 – Dec 2018</p>
-    <p>Ithaca, New York Area</p>
+    <h6>Cornell Lab of Ornithology</h6>
+    <h8 class="italic">Sep 2018 – Dec 2018</h8>
+    <h8>Ithaca, New York Area</h8>
     <ul>
         <li>Identified a novel application of a statistical modeling method to citizen science data</li>
         <li>Designed a study to apply this method to inform species conservation efforts</li>
