@@ -21,6 +21,7 @@ use_fontawesome: true
         <div>Sep 2018 – Dec 2018</div>
         <div>Ithaca, New York Area</div>
     </h8>
+    <br>
     <ul>
         <li>Identified a novel application of a statistical modeling method to citizen science data</li>
         <li>Designed a study to apply this method to inform species conservation efforts</li>
