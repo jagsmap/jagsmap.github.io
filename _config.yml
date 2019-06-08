@@ -9,6 +9,7 @@ highlighter: rouge
 header_paths:
 - about.md
 - projects.md
+- experience.md
 # - research.md
 
 ##### BUILD SETTINGS #####
