@@ -63,7 +63,7 @@ use_fontawesome: true
         </a>
 </div>
 <div class="col-12 col-sm-8">
-    <h4>App Developer & Data Manager - Merlin</h4>
+    <h4>Merlin App Developer & Data Manager</h4>
     <h8>
         <div>Jun 2016 – May 2018</div>
         <div>Ithaca, New York</div>
