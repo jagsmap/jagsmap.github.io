@@ -18,8 +18,8 @@ use_fontawesome: true
     <h4>Undergraduate Researcher: Exploring the use of Citizen Science <br> Data in Model-Based Sampling</h4>
     <h6>Cornell Lab of Ornithology</h6>
     <h8>
-        <p>Sep 2018 – Dec 2018</p>
-        <p>Ithaca, New York Area</p>
+        <div>Sep 2018 – Dec 2018</div>
+        <div>Ithaca, New York Area</div>
     </h8>
     <ul>
         <li>Identified a novel application of a statistical modeling method to citizen science data</li>
