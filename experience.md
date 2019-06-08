@@ -23,7 +23,7 @@ use_fontawesome: true
         <li>Designed a study to apply this method to inform species conservation efforts</li>
         <li>Initiated collaboration as primary researcher with two other undergraduates</li>
     </ul>
-    </div>
+    <br>
     <p><span class="bold">Mentors:</span> Dr. Frank La Sorte, Dr. David Bonter</p>
 </div>
 </div>
