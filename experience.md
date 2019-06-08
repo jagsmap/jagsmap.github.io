@@ -45,7 +45,7 @@ use_fontawesome: true
         <div>Massachusetts Division of Fisheries and Wildlife (MassWildlife)</div>
         <div>May 2018 – Aug 2018</div>
         <div>Westborough, Massachusetts</div>
-        <div><span style="italic">(Government internship)</span></div>
+        <div><i>(Government internship)</i></div>
     </h8>
     <br>
     <ul>
