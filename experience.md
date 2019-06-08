@@ -33,15 +33,31 @@ use_fontawesome: true
 </div>
 <hr>
 
-
-<h1 class="section-title">Positions</h1>
-<h3>Undergraduate Researcher: Exploring the use of Citizen Science <br> Data in Model-Based Sampling</h3>
-<h6 class="italic">Cornell Lab of Ornithology</h6>
-<h6>Sep 2018 – Dec 2018</h6>
-<h6>Ithaca, New York Area</h6>
-- Identified a novel application of a statistical modeling method to citizen science data 
-- Designed a study to apply this method to inform species conservation efforts 
-- Initiated collaboration as primary researcher with two other undergraduates
+<div class="row content-row">
+<div class="col-12 col-sm-4 image-wrapper">
+    <a href = "https://www.birds.cornell.edu/home/" target="_blank">
+            <img src="{{ site.baseurl }}/images/collabs/MassWildlife.png">
+        </a>
+</div>
+<div class="col-12 col-sm-8">
+    <h4>Avian Conservation Intern</h4>
+    <h8>
+        <div>Massachusetts Division of Fisheries and Wildlife (MassWildlife)</div>
+        <div>May 2018 – Aug 2018</div>
+        <div>Westborough, Massachusetts</div>
+        <div>(Government internship) </div>
+    </h8>
+    <br>
+    <ul>
+        <li>Conducted research with the State Ornithologist related to avian ecology and conservation </li>
+        <li>Banded songbirds using a MAPS protocol, designed to inform natural resource management </li>
+        <li>Fitted MESA-listed Eastern Whip-poor-wills with geoolocator tracking devices</li>
+    </ul>
+    <br>
+    <p><span class="bold">Mentors:</span> Dr. Frank La Sorte, Dr. David Bonter</p>
+</div>
+</div>
+<hr>
 
 ### Avian Conservation Intern
 *Massachusetts Division of Fisheries and Wildlife (MassWildlife)*
