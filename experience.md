@@ -32,6 +32,30 @@ use_fontawesome: true
 </div>
 <hr>
 
+<div class="row content-row">
+<div class="col-12 col-sm-4 image-wrapper">
+    <a href = "https://wp.nyu.edu/birdvox/" target="_blank">
+            <img src="{{ site.baseurl }}/images/collabs/BirdVox.png">
+        </a>
+</div>
+<div class="col-12 col-sm-8">
+    <h4>NSF REU - Bioacoustic Analyst for BirdVox</h4>
+    <h8>
+        <div>Jul 2017 – Dec 2018</div>
+        <div>Ithaca, New York</div>
+    </h8>
+    <br>
+    <ul>
+        <li>Annotated nocturnal flight calls of migrating birds from overnight recordings </li>
+        <li>Identified high-frequency short calls to species-level </li>
+        <li>Learned about the automatic detection of bioacoustics data</li>
+    </ul>
+    <br>
+    <p><span class="bold">Mentors:</span> Dr. Andrew Farnsworth</p>
+</div>
+</div>
+<hr>
+
 
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
