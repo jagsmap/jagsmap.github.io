@@ -136,8 +136,3 @@ use_fontawesome: true
 </div>
 </div>
 <hr>
-
-
-<h1 class="section-title">Coursework</h1>
-
-
