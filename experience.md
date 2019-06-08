@@ -4,10 +4,11 @@ layout: default
 use_fontawesome: true
 ---
 
+<h1 class="section-title">Positions</h1>
 ### Undergraduate Researcher: Exploring the use of Citizen Science <br> Data in Model-Based Sampling
-*Cornell Lab of Ornithology*
-Sep 2018 – Dec 2018
-Ithaca, New York Area
+<p class="italic">Cornell Lab of Ornithology</p>
+<p>Sep 2018 – Dec 2018</p>
+<p>Ithaca, New York Area</p>
 - Identified a novel application of a statistical modeling method to citizen science data 
 - Designed a study to apply this method to inform species conservation efforts 
 - Initiated collaboration as primary researcher with two other undergraduates
