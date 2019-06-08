@@ -4,7 +4,7 @@ layout: default
 use_fontawesome: true
 ---
 
-### Undergraduate Researcher: Exploring the use of Citizen Science Data in Model-Based Sampling
+### Undergraduate Researcher: Exploring the use of <br> Citizen Science Data in Model-Based Sampling
 Cornell Lab of Ornithology
 Sep 2018 – Dec 2018
 Ithaca, New York Area
