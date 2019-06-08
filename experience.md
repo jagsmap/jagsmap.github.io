@@ -101,4 +101,3 @@ use_fontawesome: true
     </ul>
 </div>
 </div>
-<hr>
