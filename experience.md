@@ -18,7 +18,7 @@ use_fontawesome: true
     <h4>Undergraduate Researcher: Exploring the use of Citizen Science Data in Model-Based Sampling</h4>
     <h8>
         <div>Sep 2018 – Dec 2018</div>
-        <div>Ithaca, New York Area</div>
+        <div>Ithaca, New York</div>
     </h8>
     <br>
     <ul>
@@ -67,8 +67,7 @@ use_fontawesome: true
     <h4>App Developer & Data Manager - Merlin</h4>
     <h8>
         <div>Jun 2016 – May 2018</div>
-        <div>Westborough, Massachusetts</div>
-        <div><i>(Government internship)</i></div>
+        <div>Ithaca, New York</div>
     </h8>
     <br>
     <ul>
@@ -100,8 +99,6 @@ use_fontawesome: true
         <li>Collaborated with ecolodges to attract clients by incorporating sustainable practices </li>
         <li>Co-authored a consultancy guide to ‘Aviturismo’ (a.k.a. bird-watching tourism) </li>
     </ul>
-    <br>
-    <p><span class="bold">Mentors:</span> Drew Weber </p>
 </div>
 </div>
 <hr>
