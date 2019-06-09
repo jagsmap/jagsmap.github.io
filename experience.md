@@ -15,6 +15,7 @@ use_fontawesome: true
         </a>
 </div>
 <div class="col-12 col-sm-8">
+    <br>
     <h4>Undergraduate Researcher: Exploring the use of Citizen Science Data in Model-Based Sampling</h4>
     <h8>
         <div>Sep 2018 – Dec 2018</div>
@@ -39,6 +40,7 @@ use_fontawesome: true
         </a>
 </div>
 <div class="col-12 col-sm-8">
+    <br>
     <h4>NSF REU - Bioacoustic Analyst for BirdVox</h4>
     <h8>
         <div>Jul 2017 – Dec 2018</div>
@@ -68,6 +70,7 @@ use_fontawesome: true
         </a>
 </div>
 <div class="col-12 col-sm-8">
+    <br>
     <h4>Avian Conservation Intern</h4>
     <h8>
         <div>May 2018 – Aug 2018</div>
@@ -97,6 +100,7 @@ use_fontawesome: true
         </a>
 </div>
 <div class="col-12 col-sm-8">
+    <br>
     <h4>Merlin App Developer & Data Manager</h4>
     <h8>
         <div>Jun 2016 – May 2018</div>
@@ -122,6 +126,7 @@ use_fontawesome: true
         </a>
 </div>
 <div class="col-12 col-sm-8">
+    <br>
     <h4>Ecotourism Consultancy Internship Designer</h4>
     <h8>
         <div>Oct 2017 – May 2018</div>
