@@ -56,7 +56,6 @@ use_fontawesome: true
 </div>
 <br>
 <br>
-<br>
 <hr>
 
 
