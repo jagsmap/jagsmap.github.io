@@ -54,6 +54,9 @@ use_fontawesome: true
     <p><span class="bold">Mentors:</span> Dr. Andrew Farnsworth</p>
 </div>
 </div>
+<br>
+<br>
+<br>
 <hr>
 
 
