@@ -8,6 +8,33 @@ use_fontawesome: true
 <!-- Research -->
 <h1 class="section-title">Positions</h1>
 
+
+<div class="row content-row">
+<div class="col-12 col-sm-4 image-wrapper">
+    <a href = "https://institute.sandiegozoo.org/population-sustainability" target="_blank">
+            <img src="{{ site.baseurl }}/images/collabs/SDZ.png">
+        </a>
+</div>
+<div class="col-12 col-sm-8">
+    <br>
+    <h4>Summer Research Fellow - Population Sustainability</h4>
+    <h8>
+        <div>Jun 2019 – Sep 2019</div>
+        <div>San Diego, California</div>
+    </h8>
+    <br>
+    <ul>
+        <li>Collaborating with partners to consolidate range-wide camera trap data of Jaguars</li>
+        <li>Compiling remote sensing data (environmental covariates) throughout Jaguar range</li>
+        <li>Estimating range-wide spatial variation in population density of Jaguars using SCR models</li>
+    </ul>
+    <br>
+    <p><span class="bold">Mentors:</span> Dr. Mathias Tobler</p>
+</div>
+</div>
+<hr>
+
+
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
     <a href = "https://www.birds.cornell.edu/home/" target="_blank">
