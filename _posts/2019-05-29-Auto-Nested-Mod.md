@@ -67,7 +67,6 @@ library(qpcR)
 We'll store the simulated data into a `data.frame`, which helps to keep things straight. Notice that beyond the five simulated variables, we also included an invariant term, which is simply a column downfilled by 1s that we'll make use of later. Be sure to add this column to your data.
 
 ```r
-# Set up a data.frame, include invar
 df = data.frame(
   y  = y, # response
   x0 = x0, # detect
