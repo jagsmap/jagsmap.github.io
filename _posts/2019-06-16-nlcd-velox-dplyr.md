@@ -16,6 +16,10 @@ Environmental covariates are fundamental to spatially-explicit modeling in ecolo
 
 $$\P_i = frac{sum_j=1^n}$$
 
+$$\sum_{k=1}^Nk(N-k+1)$$
+
+$$\sum_{j=1}^na_{ij}$$
+
 
 basis for using pland (ref eBird Best Prax)
 NLCD
