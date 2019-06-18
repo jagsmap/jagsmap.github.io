@@ -12,11 +12,11 @@ use_code: true
 ---
 Environmental covariates are fundamental to spatially-explicit modeling in ecology. There are thousands of metrics that have been used to characterize landscapes in ways that are relevant to biological questions, from average rainfall to net primary production. One such environmental covariate is particularly popular in distribution modeling: proportional landcover. Calculated using a buffer around each point, this metric describes the composition of the immediate landscape in terms of the proportion of each represented landcover class. The historical context for this metric comes from the well-known software, FRAGSTATS (McGarigal and Marks 1995), which included the calculation, termed <i>"pland."</i>
 
- $$\Pi = frac{sum_{j=1}^{n}}{A} aij$$   # This dont work none
+ $$\Pi = frac{sum_{j=1}^{n}}{A} aij$$   # This didn't work
 
 $$\P_i = frac{sum_j=1^n}$$
 
-$$\sum_{k=1}^Nk(N-k+1)$$
+$$\sum_{k=1}^Nk(N-k+1)$$ # did this work?
 
 $$\sum_{j=1}^na_{ij}$$
 
