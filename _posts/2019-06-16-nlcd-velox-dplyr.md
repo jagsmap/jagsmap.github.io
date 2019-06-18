@@ -4,7 +4,7 @@ layout: post
 published: true
 use_code: true
 ---
-<i>This is a tutorial on efficiently calculating proportional landcover in R using velox and dplyr.</i>
+<i>Efficiently calculating proportional landcover in R using velox and dplyr.</i>
 
 <br>
 
