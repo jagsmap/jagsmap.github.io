@@ -135,8 +135,8 @@ print(prop.lc)
 #   Wetlands` <dbl>, `Emergent Herbaceuous Wetlands` <dbl>
 ```
 
+<br>
 
-
-
-
+## <span style="color:#881c1c">References</span>
+---
 1. McGarigal, K. andBJ Marks. 1994. FRAGSTATS v2: Spatial Pattern Analysis Program for Categorical and Continuous Maps. Computer software program produced by the authors at the University of Massachusetts, Amherst. Available at the following web site: http://www.umass.edu/landeco/research/fragstats/fragstats.html
