@@ -107,7 +107,7 @@ use_fontawesome: true
     <br>
     <ul>
         <li>Conducted research with the State Ornithologist related to avian ecology and conservation </li>
-        <li>Banded songbirds under a MAPS protocol as part of a study to inform land management </li>
+        <li>Banded songbirds under a MAPS protocol in a study to inform state land management </li>
         <li>Assisted in fitting MESA-listed Eastern Whip-poor-wills with geolocator tracking devices</li>
     </ul>
     <br>
