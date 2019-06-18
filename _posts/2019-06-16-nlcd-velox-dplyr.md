@@ -1,7 +1,7 @@
 ---
 title: "Pland Calculation using velox & dplyr"
 layout: post
-published: false
+published: true
 use_code: true
 ---
 <i>This is a tutorial on efficiently calculating proportional landcover in R using velox and dplyr.</i>
@@ -9,6 +9,10 @@ use_code: true
 <br>
 
 ## <span style="color:#881c1c">Introduction</span>
+
+Environmental covariates are fundamental to spatially-explicit modeling in ecology. There are thousands of metrics that have been used to characterize landscapes in ways that are relevant to biological questions, from average rainfall to net primary production. One such environmental covariate is particularly popular in distribution modeling: proportional landcover. Calculated using a buffer around each point, this metric describes the composition of the immediate landscape in terms of the proportion of each represented landcover class.
+
+The historical context for this metric comes from the well-known software, FRAGSTATS (McGarigal and Marks 1995).
 
 Some introductory text... 
 pland from FRAGSTATS
@@ -130,3 +134,9 @@ print(prop.lc)
 #   `Shrub/Scrub` <dbl>, Herbaceuous <dbl>, `Hay/Pasture` <dbl>, `Cultivated Crops` <dbl>, `Woody
 #   Wetlands` <dbl>, `Emergent Herbaceuous Wetlands` <dbl>
 ```
+
+
+
+
+
+1. McGarigal, K. andBJ Marks. 1994. FRAGSTATS v2: Spatial Pattern Analysis Program for Categorical and Continuous Maps. Computer software program produced by the authors at the University of Massachusetts, Amherst. Available at the following web site: http://www.umass.edu/landeco/research/fragstats/fragstats.html
