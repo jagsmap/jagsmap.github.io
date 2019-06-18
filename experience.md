@@ -107,8 +107,8 @@ use_fontawesome: true
     <br>
     <ul>
         <li>Conducted research with the State Ornithologist related to avian ecology and conservation </li>
-        <li>Banded songbirds using a MAPS protocol, designed to inform natural resource management </li>
-        <li>Fitted MESA-listed Eastern Whip-poor-wills with geoolocator tracking devices</li>
+        <li>Banded songbirds under a MAPS protocol as part of a study to inform land management </li>
+        <li>Fitted MESA-listed Eastern Whip-poor-wills with geolocator tracking devices</li>
     </ul>
     <br>
     <p><span class="bold">Mentor:</span> Dr. Andrew Vitz</p>
