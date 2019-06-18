@@ -10,12 +10,9 @@ use_code: true
 
 ## <span style="color:#881c1c">Introduction</span>
 
-Environmental covariates are fundamental to spatially-explicit modeling in ecology. There are thousands of metrics that have been used to characterize landscapes in ways that are relevant to biological questions, from average rainfall to net primary production. One such environmental covariate is particularly popular in distribution modeling: proportional landcover. Calculated using a buffer around each point, this metric describes the composition of the immediate landscape in terms of the proportion of each represented landcover class.
+Environmental covariates are fundamental to spatially-explicit modeling in ecology. There are thousands of metrics that have been used to characterize landscapes in ways that are relevant to biological questions, from average rainfall to net primary production. One such environmental covariate is particularly popular in distribution modeling: proportional landcover. Calculated using a buffer around each point, this metric describes the composition of the immediate landscape in terms of the proportion of each represented landcover class. The historical context for this metric comes from the well-known software, FRAGSTATS (McGarigal and Marks 1995), which included the calculation, termed <i>"pland."</i>
 
-The historical context for this metric comes from the well-known software, FRAGSTATS (McGarigal and Marks 1995).
 
-Some introductory text... 
-pland from FRAGSTATS
 basis for using pland (ref eBird Best Prax)
 NLCD
 velox
@@ -140,3 +137,5 @@ print(prop.lc)
 ## <span style="color:#881c1c">References</span>
 ---
 1. McGarigal, K. andBJ Marks. 1994. FRAGSTATS v2: Spatial Pattern Analysis Program for Categorical and Continuous Maps. Computer software program produced by the authors at the University of Massachusetts, Amherst. Available at the following web site: http://www.umass.edu/landeco/research/fragstats/fragstats.html
+
+2. Johnston, A. et al. Best practices for making reliable inferences from citizen science data: case study using eBird to estimate species distributions. bioRxiv (2019). doi:10.1101/574392
