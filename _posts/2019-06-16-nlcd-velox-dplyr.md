@@ -1,7 +1,7 @@
 ---
 title: "Pland Calculation Using Velox & Dplyr"
 layout: post
-published: false
+published: true
 use_code: true
 ---
 <i>Efficiently calculating proportional landcover in R using velox and dplyr.</i>
@@ -10,7 +10,7 @@ use_code: true
 
 ## <span style="color:#881c1c">Introduction</span>
 ---
-Environmental covariates are fundamental to spatially-explicit modeling in ecology. There are thousands of metrics that have been used to characterize landscapes in ways that are relevant to biological questions, from average rainfall to net primary production. One such environmental covariate is particularly popular in distribution modeling: proportional landcover. Calculated using a buffer around each point, this metric describes the composition of the immediate landscape in terms of the proportion of each represented landcover class. The historical context for this metric comes from the well-known software, FRAGSTATS (McGarigal and Marks 1995), which included the calculation, termed <i>"pland."</i>
+Environmental covariates are fundamental to spatially-explicit modeling in ecology. There are hundreds of metrics that have been used to characterize landscapes in ways that are biologically relevant, from average rainfall to net primary production. One such environmental covariate that is particularly popular in distribution modeling is proportional landcover. Calculated using a buffer around each point, this metric describes the composition of the surrounding landscape in terms of the proportion of each represented landcover class. The historical context for this metric comes from the well-known software, FRAGSTATS (McGarigal and Marks 1995), which includes this calculation -- termed <i>"pland."</i>
 
  $$\Pi = frac{sum_{j=1}^{n}}{A} aij$$   # This didn't work
 
