@@ -21,6 +21,7 @@ Environmental covariates are fundamental to spatially-explicit modeling in ecolo
 ### Generating sample coordinates
 
 ```r
+library(dplyr)
 library(rnaturalearth)
 state = ne_states(iso_a2 = "US", returnclass = "sf") %>%  # pull admin. bounds. for US
   filter(iso_3166_2 == "US-MA") %>% # select Massachusetts
