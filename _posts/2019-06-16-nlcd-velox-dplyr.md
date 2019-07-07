@@ -20,6 +20,8 @@ $$\sum_{k=1}^Nk(N-k+1)$$ # did this work?
 
 $$\sum_{j=1}^na_{ij}$$
 
+$$\sum_{j=1}^{n} a_ij$$
+
 
 basis for using pland (ref eBird Best Prax)
 NLCD
