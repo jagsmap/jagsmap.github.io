@@ -31,10 +31,15 @@ state = ne_states(iso_a2 = "US", returnclass = "sf") %>%  # pull admin. bounds. 
 
 pts = st_sample(state, size = 10, type = "regular") # sample 10 points in polygon
 
-plot(pts, col="red", pch=20)
+plot(st_transform(pts, 4326), col="red", pch=20)
+maps::map("state", add=T)
 ```
-
-Image of MA with sample coordinates
+<center>
+  <figure>
+    <img src="{{ site.baseurl }}/images/state_pts.png" style="width:800px;">
+    <figcaption>Fig. 1 -- Points plotted in red are locations for raster extraction</figcaption>
+  </figure>
+</center>
 
 ### Fetching NLCD data
 
@@ -54,7 +59,7 @@ plot(pts, col="black", pch=20, cex=1.5, add=T)
 <center>
   <figure>
     <img src="{{ site.baseurl }}/images/nlcd_extract_pts.png" style="width:800px;">
-    <figcaption>Fig. 1 -- Points plotted in black are locations for raster extraction</figcaption>
+    <figcaption>Fig. 2 -- Points plotted in black are locations for raster extraction</figcaption>
   </figure>
 </center>
 
