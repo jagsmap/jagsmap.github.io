@@ -1,7 +1,7 @@
 ---
 title: "Pland Calculation Using Velox & Dplyr"
 layout: post
-published: false
+published: true
 use_code: true
 ---
 <i>Efficiently calculating proportional landcover in R using velox and dplyr.</i>
