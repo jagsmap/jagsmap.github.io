@@ -53,7 +53,7 @@ plot(pts, col="black", pch=20, cex=1.5, add=T)
 ```
 <center>
   <figure>
-    <img src="{{ site.baseurl }}/images/nlcd_extract_pts.png" style="width:500px;">
+    <img src="{{ site.baseurl }}/images/nlcd_extract_pts.png" style="width:800px;">
     <figcaption>Fig. 1 -- Points plotted in black are locations for raster extraction</figcaption>
   </figure>
 </center>
