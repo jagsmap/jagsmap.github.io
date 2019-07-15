@@ -51,8 +51,7 @@ nlcd = get_nlcd(
 plot(nlcd)
 plot(pts, col="black", pch=20, cex=1.5, add=T)
 ```
-
-Include that plot
+<img src="{{ site.baseurl }}/images/nlcd_extract_pts.png">
 
 ### Extract using raster:extract()
 
