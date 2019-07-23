@@ -28,7 +28,7 @@ setwd(Jaguar_dir)
 #----Read in manually-selected tiles----
 
 # could instead use MODIS::getTiles() 
-or feed an extent object to MODIS::runGdal()
+# or feed an extent object to MODIS::runGdal()
 
 tiles = read.csv("data/GIS/modis/MODIS_tiles.csv")
 tilesH = tiles$H
@@ -67,6 +67,7 @@ foreach(i = 1:42,
   file.rename(tifs, new_names)
 }
 stopCluster(cl)
+
 
 #---Re-run to mosaic tiles by year----
 
