@@ -98,7 +98,7 @@ tifs = runGdal(
 # This tells you that runGdal has all the hdf files and will
 # just start mosaicing them and converting to tifs.
 
-# rename tifs to have more descriptive names
+# rename tifs by year
 new_names = format(as.Date(names(tifs)), "%Y") %>% 
   sprintf("modis_mcd12q1_umd_%s.tif", .) %>% 
   file.path(dirname(tifs), .)
