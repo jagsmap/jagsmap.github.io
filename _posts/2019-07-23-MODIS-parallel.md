@@ -1,5 +1,5 @@
 ---
-title: "Downloading MODIS land cover in parallel"
+title: "Downloading MODIS Land Cover in Parallel"
 layout: post
 published: true
 use_code: true
