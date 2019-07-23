@@ -18,11 +18,11 @@ library(foreach)
 
 #----Create(?) and set dir----
 
-Jaguar_dir <- "~/Jaguar"
-if (!dir.exists(Jaguar_dir)) {
-  dir.create(Jaguar_dir)
+sdm_dir <- "~/sdm"
+if (!dir.exists(sdm_dir)) {
+  dir.create(sdm_dir)
 }
-setwd(Jaguar_dir)
+setwd(sdm_dir)
 
 
 #----Read in manually-selected tiles----
@@ -74,8 +74,8 @@ stopCluster(cl)
 # FIRST, COPY THE MODIS TILES FROM THEIR ORIGINAL ARC PATH
 # e.g.: C:\Users\dupont\AppData\Local\Temp\Rtmpu4ZXW2\MODIS_ARC\MODIS
 
-# could use file.copy("C:\Users\dupont\AppData\Local\Temp\Rtmpu4ZXW2\MODIS_ARC\MODIS",
-#                     "data/GIS/modis/MCD12Q1.006)
+# could use file.copy("C:\\Users\\dupont\\AppData\\Local\\Temp\\Rtmpu4ZXW2\\MODIS_ARC\\MODIS\\MCD12Q1.006",
+#                     "data/GIS/modis")
 
 tifs = runGdal(
   product = "MCD12Q1",
