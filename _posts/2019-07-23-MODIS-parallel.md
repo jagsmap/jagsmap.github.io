@@ -38,18 +38,28 @@ tilesV = tiles$V
 #----Loop through tiles and download----
 
 # making parallel cluster
-cl = makeCluster(20)
+ncores = round(detectCores() * 0.75) # using 75% of available cores
+cl = makeCluster(ncores)
 registerDoParallel(cl)
 
-foreach(i = 1:42, .packages=c('MODIS', 'rgeos', 'purrr', 'dplyr')) %dopar% {
-  # download tiles and combine into a single raster for each year
-  tifs = runGdal(product = "MCD12Q1", collection = "006", SDSstring = "01",
-                 tileH = tilesH[i], tileV = tilesV[i],
-                 begin = "2001.01.01", end = "2017.12.31",
-                 outDirPath = "data/GIS/modis/tiles", job = paste0("modis_",tilesH[i],"_",tilesV[i])) %>%
-    pluck("MCD12Q1.006") %>%
-    unlist()
-  
+# donwload each of the 42 tiles individually
+foreach(i = 1:42,
+        .packages = c('MODIS', 'rgeos', 'purrr', 'dplyr')) %dopar% {
+          # download tiles and combine into a single raster for each year
+          tifs = runGdal(
+            product = "MCD12Q1",
+            collection = "006",
+            SDSstring = "01",
+            tileH = tilesH[i],
+            tileV = tilesV[i],
+            begin = "2001.01.01",
+            end = "2017.12.31",
+            outDirPath = "data/GIS/modis",
+            job = paste0("modis_", tilesH[i], "_", tilesV[i])) %>%
+            
+            pluck("MCD12Q1.006") %>%
+            unlist()
+          
   # rename tifs to have more descriptive names
   new_names = format(as.Date(names(tifs)), "%Y") %>%
     sprintf(paste0("modis_mcd12q1_h", tilesH[i], "_v", tilesV[i], "_umd_%s.tif"), .) %>%
@@ -58,21 +68,37 @@ foreach(i = 1:42, .packages=c('MODIS', 'rgeos', 'purrr', 'dplyr')) %dopar% {
 }
 stopCluster(cl)
 
-#---Re=run to mosaic tiles by year----
+#---Re-run to mosaic tiles by year----
 
 # FIRST, COPY THE MODIS TILES FROM THEIR ORIGINAL ARC PATH
 # e.g.: C:\Users\dupont\AppData\Local\Temp\Rtmpu4ZXW2\MODIS_ARC\MODIS
 
-tifs <- runGdal(product = "MCD12Q1", collection = "006", SDSstring = "01", 
-                tileH = tilesH, tileV = tilesV, localArcPath = "data/GIS/modis/MCD12Q1.006",
-                begin = "2001.01.01", end = "2017.12.31", forceDownload = F,
-                outDirPath = "data/GIS/modis/tiles", job = "modis") %>% 
-  pluck("MCD12Q1.006") %>% 
+# could use file.copy("C:\Users\dupont\AppData\Local\Temp\Rtmpu4ZXW2\MODIS_ARC\MODIS",
+#                     "data/GIS/modis/MCD12Q1.006)
+
+tifs = runGdal(
+  product = "MCD12Q1",
+  collection = "006",
+  SDSstring = "01",
+  tileH = tilesH,
+  tileV = tilesV,
+  begin = "2001.01.01",
+  end = "2017.12.31",
+  localArcPath = "data/GIS/modis/MCD12Q1.006",
+  outDirPath = "data/GIS/modis",
+  forceDownload = F,
+  job = "annual_mosaic_tifs") %>%
+  
+  pluck("MCD12Q1.006") %>%
   unlist()
+
+# If everything is set up correctly, you should see:
 # "Local structure is up-to-date. Using offline information!"
+# This tells you that runGdal has all the hdf files and will
+# just start mosaicing them and converting to tifs.
 
 # rename tifs to have more descriptive names
-new_names <- format(as.Date(names(tifs)), "%Y") %>% 
+new_names = format(as.Date(names(tifs)), "%Y") %>% 
   sprintf("modis_mcd12q1_umd_%s.tif", .) %>% 
   file.path(dirname(tifs), .)
 file.rename(tifs, new_names)
