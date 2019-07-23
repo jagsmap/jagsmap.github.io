@@ -1,5 +1,5 @@
 ---
-title: "Calculating 'pland' Using Velox & Dplyr"
+title: "Calculating 'pland' using Velox & Dplyr"
 layout: post
 published: true
 use_code: true
