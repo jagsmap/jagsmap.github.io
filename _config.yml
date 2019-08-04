@@ -19,3 +19,5 @@ header_paths:
 # http://jch.penibelst.de/
 compress_html:
   blanklines: true
+
+theme: jekyll-theme-cayman
