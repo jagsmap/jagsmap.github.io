@@ -34,7 +34,6 @@ use_fontawesome: true
 </div>
 <br>
 <br>
-<br>
 <hr>
 
 <br>
@@ -51,7 +50,6 @@ use_fontawesome: true
 </div>
 <br>
 <br>
-<br>
 <hr>
 
 <br>
@@ -66,5 +64,4 @@ use_fontawesome: true
     <p>Gates graduated from Cornell University in 2019 with a degree in Environemntal Science, where he gained an interest in quantiative ecology through his research at the Cornell Lab of Ornithology. Currently, he's a summer fellow at the San Diego Zoo's Institue for Conservation Researech working on this project with Dr. Mathias Tobler before entering his Masters position with Dr. Christopher Sutherland at UMass Amherst where he will be developing optimal sampling design methods for spatial capture-recapture modeling, which will be applied to a similar range-wide analysis of snow leopards.</p>
 </div>
 </div>
-<br>
 <br>
