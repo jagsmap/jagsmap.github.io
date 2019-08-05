@@ -17,8 +17,6 @@ use_fontawesome: true
     <p>Dr. Mathias Tobler serves San Diego Zoo Global as an Associate Director in Population Sustainability. As a wildlife ecologist, he has a strong interest in the population and spatial ecology of large mammals and the development and application of new technologies and analytical methods for wildlife studies. He has an extensive background in tropical ecology with many years of research experience in the Peruvian Amazon. He also has a strong quantitative background and is interested in the application of new statistical methods to ecological research and conservation. His main research interests are to 1) understand the impact of different land use types on the community of large and medium-sized mammals in tropical forest ecosystems, 2) advance analytical methods such as multi-species occupancy models and spatial capture-recapture models and their application to camera trap data, 3) elucidate the spatial and population ecology of large keystone species to better inform conservation planning, and 4) develop database applications to help manage biodiversity data.</p>
 </div>
 </div>
-<br>
-<br>
 <hr>
 
 <div class="row content-row">
@@ -50,6 +48,7 @@ use_fontawesome: true
 <br>
 <br>
 <br>
+<br>
 <hr>
 
 <div class="row content-row">
@@ -64,5 +63,5 @@ use_fontawesome: true
 </div>
 <br>
 <br>
+<br>
 <hr>
-
