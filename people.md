@@ -8,6 +8,7 @@ use_fontawesome: true
 <h1 class="section-title">People</h1>
 
 <div class="row content-row">
+    <br>
 <div class="col-12 col-sm-4 image-wrapper">
     <img src="{{ site.baseurl }}/images/people/MathiasTobler.jpg" width="250">
 </div>
@@ -20,6 +21,7 @@ use_fontawesome: true
 <hr>
 
 <div class="row content-row">
+    <br>
 <div class="col-12 col-sm-4 image-wrapper">
     <img src="{{ site.baseurl }}/images/people/ChrisSutherland.png" width="250">
 </div>
@@ -36,6 +38,7 @@ use_fontawesome: true
 <hr>
 
 <div class="row content-row">
+    <br>
 <div class="col-12 col-sm-4 image-wrapper">
     <img src="{{ site.baseurl }}/images/people/AndyRoyle.jpg" width="250">
 </div>
@@ -52,6 +55,7 @@ use_fontawesome: true
 <hr>
 
 <div class="row content-row">
+    <br>
 <div class="col-12 col-sm-4 image-wrapper">
     <img src="{{ site.baseurl }}/images/people/GatesDupont.jpg" width="250">
 </div>
