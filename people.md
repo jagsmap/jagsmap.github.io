@@ -9,7 +9,7 @@ use_fontawesome: true
 
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
-    <img src="{{ site.baseurl }}/people/MathiasTobler.jpg">
+    <img src="{{ site.baseurl }}/images/people/MathiasTobler.jpg">
 </div>
 <div class="col-12 col-sm-8">
     <h4>Mathias Tobler, PhD</h4>
@@ -21,7 +21,7 @@ use_fontawesome: true
 
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
-    <img src="{{ site.baseurl }}/people/MathiasTobler.jpg">
+    <img src="{{ site.baseurl }}/images/people/ChrisSutherland.png">
 </div>
 <div class="col-12 col-sm-8">
     <h4>Chris Sutherland, PhD</h4>
@@ -33,7 +33,7 @@ use_fontawesome: true
 
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
-    <img src="{{ site.baseurl }}/people/MathiasTobler.jpg">
+    <img src="{{ site.baseurl }}/images/people/AndyRoyle.jpg">
 </div>
 <div class="col-12 col-sm-8">
     <h4>Andy Royle, PhD</h4>
