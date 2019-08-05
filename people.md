@@ -64,4 +64,3 @@ use_fontawesome: true
 <br>
 <br>
 <br>
-<hr>
