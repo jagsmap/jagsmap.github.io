@@ -10,6 +10,7 @@ use_fontawesome: true
 <br>
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
+    <br>
     <img src="{{ site.baseurl }}/images/people/MathiasTobler.jpg" width="250">
 </div>
 <div class="col-12 col-sm-8">
