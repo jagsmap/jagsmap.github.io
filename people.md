@@ -32,7 +32,6 @@ use_fontawesome: true
 </div>
 </div>
 <br>
-<br>
 
 <br>
 <div class="row content-row">
