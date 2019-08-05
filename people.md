@@ -45,7 +45,7 @@ use_fontawesome: true
 
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
-    <img src="{{ site.baseurl }}/images/people/AndyRoyle.jpg" width="250">
+    <img src="{{ site.baseurl }}/images/people/GatesDupont.jpg" width="250">
 </div>
 <div class="col-12 col-sm-8">
     <h4>Gates Dupont</h4>
