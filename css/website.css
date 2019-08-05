@@ -87,7 +87,8 @@ a.nav-link:active {
   width: 90%;
   max-width: 250px;
   border-radius: 50%;
-  border: 8px #D8A328;
+  border: 8px solid white;
+  border-color; #D8A328;
   box-shadow: 0 0 1.5em black;
 }
 
