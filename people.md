@@ -9,7 +9,7 @@ use_fontawesome: true
 
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
-    <img src="{{ site.baseurl }}/images/people/MathiasTobler.jpg" width="350">
+    <img src="{{ site.baseurl }}/images/people/MathiasTobler.jpg" width="250">
 </div>
 <div class="col-12 col-sm-8">
     <h4>Mathias Tobler, PhD</h4>
@@ -21,7 +21,7 @@ use_fontawesome: true
 
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
-    <img src="{{ site.baseurl }}/images/people/ChrisSutherland.png" width="350">
+    <img src="{{ site.baseurl }}/images/people/ChrisSutherland.png" width="250">
 </div>
 <div class="col-12 col-sm-8">
     <h4>Chris Sutherland, PhD</h4>
@@ -33,7 +33,7 @@ use_fontawesome: true
 
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
-    <img src="{{ site.baseurl }}/images/people/AndyRoyle.jpg" width="350">
+    <img src="{{ site.baseurl }}/images/people/AndyRoyle.jpg" width="250">
 </div>
 <div class="col-12 col-sm-8">
     <h4>Andy Royle, PhD</h4>
@@ -41,4 +41,17 @@ use_fontawesome: true
     <p>Andy Royle has been with Patuxent Wildlife Research Center since 2004. Before that he was a statistician (1998-2004) for the U.S. FWS in the Migratory Bird Management Office where he worked primarily on waterfowl surveys and monitoring projects. Prior to that he was a visiting scientist in the Geophysical Statistics Project at the National Center for Atmospheric Reserach, Boulder, CO. He has a PhD in Statistics (1996) from North Carolina State University and a BS in Fisheries and Wildlife (1990) from Michigan State University.</p>
 </div>
 </div>
+<hr>
+
+<div class="row content-row">
+<div class="col-12 col-sm-4 image-wrapper">
+    <img src="{{ site.baseurl }}/images/people/AndyRoyle.jpg" width="250">
+</div>
+<div class="col-12 col-sm-8">
+    <h4>Gates Dupont</h4>
+    <p class="italic">University of Massachusetts Amherst</p>
+    <p>Gates graduated from Cornell University in 2019 with a degree in Environemntal Science, where he gained an interest in quantiative ecology through his research at the Cornell Lab of Ornithology. Currently, he's a summer fellow at the San Diego Zoo's Institue for Conservation Researech working on this project with Dr. Mathias Tobler before entering his Masters position with Dr. Christopher Sutherland at UMass Amherst where he will be developing optimal sampling design methods for spatial capture-recapture modeling, which will be applied to a similar range-wide analysis of snow leopards.</p>
+</div>
+</div>
+<hr>
 
