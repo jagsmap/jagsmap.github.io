@@ -7,8 +7,8 @@ use_fontawesome: true
 <!-- Research -->
 <h1 class="section-title">People</h1>
 
+<br>
 <div class="row content-row">
-    <br>
 <div class="col-12 col-sm-4 image-wrapper">
     <img src="{{ site.baseurl }}/images/people/MathiasTobler.jpg" width="250">
 </div>
@@ -20,6 +20,7 @@ use_fontawesome: true
 </div>
 <hr>
 
+<br>
 <div class="row content-row">
     <br>
 <div class="col-12 col-sm-4 image-wrapper">
@@ -37,6 +38,7 @@ use_fontawesome: true
 <br>
 <hr>
 
+<br>
 <div class="row content-row">
     <br>
 <div class="col-12 col-sm-4 image-wrapper">
@@ -54,6 +56,7 @@ use_fontawesome: true
 <br>
 <hr>
 
+<br>
 <div class="row content-row">
     <br>
 <div class="col-12 col-sm-4 image-wrapper">
