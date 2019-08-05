@@ -5,32 +5,40 @@ use_fontawesome: true
 ---
 
 <!-- Research -->
-<h1 class="section-title">Research Projects</h1>
+<h1 class="section-title">People</h1>
 
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
-    <img src="{{ site.baseurl }}/images/wnv-nj.png">
+    <img src="{{ site.baseurl }}/people/MathiasTobler.jpg">
 </div>
 <div class="col-12 col-sm-8">
-    <h4>Recent avian population dynamics in the Northeastern United States suggest persistent but diminished impacts of West Nile virus</h4>
-    <p class="italic">Spring 2017 - Present</p>
-    <p><span class="bold">Abstract:</span> Soon after its introduction to North America in 1999, West Nile virus spread rapidly across the continent and negatively impacted the populations of a diversity of avian host species. The potentially continuing effects of the introduction of the virus, however, have not been fully explored. To determine whether long-term population trends are correlated with the persistence of the virus in the study region, I analyzed 19 years of Project FeederWatch data from the Northeastern United States to generate population trends with a dynamic, multivariate, and temporal modeling approach. To associate the effects of West Nile virus with population trends, I generated estimates of relative abundance for a suite of six species chosen a priori. These species included three that experienced significant population declines due to the virus and three that have been considered to have unaffected populations. I confirmed the initial population decline in the three affected species and documented a partial and full recovery of two of the species by the end of study period. The remaining species, American Crow, had not yet recovered by 2018, with relative abundance estimates at 63% of pre-disease levels. There was also significant synchrony in the inter-annual population trends of the affected species.</p>
-    <p><span class="bold">Mentors:</span> Dr. David Bonter, Dr. Orin Robinson</p>
-    <p><span class="bold">Presentations:</span> New York State Ornithological Assosciation 71st Annual Meeting - Rochester, NY 2018, American Ornithological Society 137th Meeting - Anchorage, AK 2019</p>
+    <h4>Mathias Tobler, PhD</h4>
+    <p class="italic"> </p>
+    <p>Dr. Mathias Tobler serves San Diego Zoo Global as an Associate Director in Population Sustainability. As a wildlife ecologist, he has a strong interest in the population and spatial ecology of large mammals and the development and application of new technologies and analytical methods for wildlife studies. He has an extensive background in tropical ecology with many years of research experience in the Peruvian Amazon. He also has a strong quantitative background and is interested in the application of new statistical methods to ecological research and conservation. His main research interests are to 1) understand the impact of different land use types on the community of large and medium-sized mammals in tropical forest ecosystems, 2) advance analytical methods such as multi-species occupancy models and spatial capture-recapture models and their application to camera trap data, 3) elucidate the spatial and population ecology of large keystone species to better inform conservation planning, and 4) develop database applications to help manage biodiversity data.</p>
 </div>
 </div>
 <hr>
 
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
-    <img src="{{ site.baseurl }}/images/fulmar.jpg">
+    <img src="{{ site.baseurl }}/people/MathiasTobler.jpg">
 </div>
 <div class="col-12 col-sm-8">
-    <h4>Seabirds to Starboard: Notes on Norse Navigational Technique</h4>
-    <p class="italic">Fall 2015 - Spring 2018</p>
-    <p><span class="bold">Abstract:</span> Pictorial cartography was, as far as we know, foreign to the Norsemen of the Viking Age and later Middle Ages; they were nevertheless capable of reliably navigating long distances, apparently by creating ‘narrative maps’ of their routes: verbal accounts of prominent land- and sea-marks, presumably passed down orally and eventually, occasionally, in written form. We have some examples in Ohthere’s and Wulfstan’s narratives (preserved in the Old English Orosius), as well as in Bjarni Herjólfsson’s account of his accidental discovery of America (in Grœnlendinga saga). The utility for navigators of prominent landmarks – headlands, high mountains, distinctive terrestrial formations, and so on – is self-evident, but reports of the less stable markers used to navigate over open waters are of particular interest. Already Alcuin in 793 ad acclaimed Norse mariners’ ability to cut across the North Sea as a hallmark of their fearsome ingenuity. Quite how they did it remains enigmatic to this day. One possible clue Norse navigators probably resorted to was observation of marine birdlife; a brief comment preserved in Landnámabók about the sighting of Icelandic birds en route to Greenland is suggestive of how such lore may have been packaged and transmitted as part of culturally resonant narratives. Around the North Atlantic, population pockets of related avian species have distinctive appearances and behaviours, which an informed observer could use to make educated localisation guesses (recognising, for instance, that birds sighted are ‘from Iceland’). Seasonal patterns and interaction within and among species could also provide important directional and proximity clues, and perhaps even hint at longitude and latitude. Finally, human manipulation of avian behaviour could help guide sailors (as Flóki Vilgerðarson is said to have demonstrated in maverick fashion on his discovery voyage to Iceland). This paper surveys some of the likely techniques available to the Norsemen for navigating by observation of pelagic fowl, and retrieves evidence for such practices from the surviving narrative records. The authors combine ornithological, historical, and narratological perspectives to analyse these data as pointing both at original cultural praxis – the knowledge that mariners would have valued and sought to manipulate – and at meaningful textual tropes, significant narrative elements that enabled preservation and transmission of such knowledge as a mode of recounting spatial experience.</p>
-    <p><span class="bold">Mentors:</span> Dr. Oren Falk</p>
-    <p><span class="bold">Presentations:</span> Time, Space & Narrative in Medieval Icelandic Literature - University of Reykjavik, Iceland 2017</p>
+    <h4>Chris Sutherland, PhD</h4>
+    <p class="italic"> </p>
+    <p>I am interested in movement, dispersal and connectivity, specifically how large-scale biological patterns can be explained by an understanding of how and why organisms use space at a variety of spatial and temporal scales. My work involves developing biologically realistic statistical models for observational data collected at all levels of organization – typically using hierarchical models. My research balances methodological development with a strong focus on the application of these tools to biological systems to solve real-world problems.</p>
+</div>
+</div>
+<hr>
+
+<div class="row content-row">
+<div class="col-12 col-sm-4 image-wrapper">
+    <img src="{{ site.baseurl }}/people/MathiasTobler.jpg">
+</div>
+<div class="col-12 col-sm-8">
+    <h4>Andy Royle, PhD</h4>
+    <p class="italic"> </p>
+    <p>Andy Royle has been with Patuxent Wildlife Research Center since 2004. Before that he was a statistician (1998-2004) for the U.S. FWS in the Migratory Bird Management Office where he worked primarily on waterfowl surveys and monitoring projects. Prior to that he was a visiting scientist in the Geophysical Statistics Project at the National Center for Atmospheric Reserach, Boulder, CO. He has a PhD in Statistics (1996) from North Carolina State University and a BS in Fisheries and Wildlife (1990) from Michigan State University.</p>
 </div>
 </div>
 
