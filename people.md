@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: People
 layout: default
 use_fontawesome: true
 ---
