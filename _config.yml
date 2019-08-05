@@ -9,6 +9,7 @@ highlighter: rouge
 header_paths:
 - about.md
 - people.md
+- updates.md
 # - research.md
 
 ##### BUILD SETTINGS #####
