@@ -12,14 +12,14 @@ use_fontawesome: true
 <div class="col-12 col-sm-4 image-wrapper">
     <br>
     <br>
-    <img src="{{ site.baseurl }}/images/map_updates/surveys_080519.png" width="1000" style="border:1px solid #d9d9d9">
+    <img src="{{ site.baseurl }}/images/map_updates/surveys_080519.png" width="1000" style="border:1px solid #cccccc">
 </div>
 <div class="col-12 col-sm-8">
     <h4>Summary Statistics</h4>
     <p class="italic">Submissions received: 5 of 150</p>
 </div>
 </div>
-
+<br>
 ```txt
             SurveyID                                  Survey_Name          Lat         Long Start_Date   End_Date
         1        1                            Dispositif Jaguar      5.21083    -52.81416 2013-10-09 2014-03-18
