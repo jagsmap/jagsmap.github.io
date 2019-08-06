@@ -12,7 +12,7 @@ use_fontawesome: true
 <div class="col-12 col-sm-4 image-wrapper">
     <br>
     <br>
-    <img src="{{ site.baseurl }}/images/map_updates/surveys_080519.png" width="750" style="border:1px solid #d9d9d9">
+    <img src="{{ site.baseurl }}/images/map_updates/surveys_080519.png" width="1000" style="border:1px solid #d9d9d9">
 </div>
 <div class="col-12 col-sm-8">
     <h4>Summary Statistics</h4>
