@@ -77,7 +77,7 @@ a.nav-link:active {
 
 .header-home {
   background: url("../images/banner/banner-ct2_edit.jpg") center center/cover;
-  max-height: 200px;
+  min-height: 1000px;
 }
 
 .page-description {
