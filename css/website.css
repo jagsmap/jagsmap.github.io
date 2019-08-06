@@ -76,7 +76,7 @@ a.nav-link:active {
 }
 
 .header-home {
-  background: url("../images/banner-black.png") center center/cover;
+  background: url("../images/banner-scr-jag-lr.png") center center/cover;
 }
 
 .page-description {
@@ -87,8 +87,7 @@ a.nav-link:active {
   width: 90%;
   max-width: 250px;
   border-radius: 50%;
-  border: 4px;
-  border-color: #D8A328;
+  border: 4px solid black;
   box-shadow: 0 0 1.5em black;
 }
 
