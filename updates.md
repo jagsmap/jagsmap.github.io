@@ -17,7 +17,7 @@ use_fontawesome: true
 <div class="col-12 col-sm-8">
     <h4>Summary Statistics</h4>
     <p class="italic">Submissions received: 5 of 150.</p>
-  ```r
+```r
     SurveyID                                  Survey_Name          Lat         Long Start_Date   End_Date
 1        1                            Dispositif Jaguar      5.21083    -52.81416 2013-10-09 2014-03-18
 2        5 Selva Lacandona long-term monitoring program    16.111147   -90.952026 2017-01-01 2017-04-04
@@ -30,7 +30,7 @@ use_fontawesome: true
 3        Brazil       58        4           3
 4        Brazil       60        5           4
 5        Brazil       60       65          25
-  ```
+```
     <p></p>
 </div>
 </div>
