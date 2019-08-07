@@ -4,19 +4,19 @@ layout: default
 use_fontawesome: true
 ---
 <div class="row content-row">
-<div class="col-12 col-sm-4 image-wrapper">
-    <br>
-    <br>
-    <img src="{{ site.baseurl }}/images/map_updates/surveys_080519.png" width="1000" style="border:1px solid #cccccc">
-    <p>Submitted surveys (updated August 5th, 2019).</p>
-</div>
 <div class="col-12 col-sm-8">
-    <h4>Summary Statistics</h4>
+    <h3>Summary Statistics</h3>
     <br>
     <br>
     <p class="italic">Submissions received: 5</p>
     <p class="italic">Total captures: 174</p>
     <p class="italic">etc.</p>
+</div>
+<div class="col-12 col-sm-4 image-wrapper">
+    <br>
+    <br>
+    <img src="{{ site.baseurl }}/images/map_updates/surveys_080519.png" width="1000" style="border:1px solid #cccccc">
+    <p class="italic">Submitted surveys (updated August 5th, 2019).</p>
 </div>
 </div>
 <br>
