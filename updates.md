@@ -16,7 +16,7 @@ use_fontawesome: true
     <br>
     <br>
     <img src="{{ site.baseurl }}/images/map_updates/surveys_080519.png" width="1000" style="border:1px solid #cccccc">
-    <h5 class="italic">Submitted surveys (updated August 5th, 2019).</h5>
+    <h6 class="italic">Submitted surveys (updated August 5th, 2019).</h6>
 </div>
 </div>
 <br>
