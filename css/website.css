@@ -14,12 +14,12 @@
 }
 
 a, a:link {
-  color: #D8A328;
+  color: #E1BB67;
   text-decoration: none !important;
 }
 
 a, a:visited {
-  color: #D8A328;
+  color: #E1BB67;
   text-decoration: none !important;
 }
 
@@ -34,7 +34,7 @@ a, a:active {
 }
 
 .cardinal-red {
-  color: #D8A328 !important; /* Cardinal Red */
+  color: #E1BB67 !important; /* Cardinal Red */
 }
 
 img {
@@ -170,7 +170,7 @@ ul.contact {
 }
 
 h1.section-title {
-  color: #D8A328; /* Cardinal Red */
+  color: #E1BB67; /* Cardinal Red */
   margin: 1em 0em 0.7em;
 }
 
