@@ -5,9 +5,8 @@ use_fontawesome: true
 ---
 
 <h3>Summary Statistics</h3>
+<h6 class="italic"> Updated August 5th, 2019</h6>
 <br>
-<h5 class="italic"> Updated August 5th, 2019</h5>
-
 ```txt
   SurveyID Survey_Name           Lat      Long    Start_Date          End_Date            Country  Stations Captures Individuals
      <dbl> <chr>                 <chr>    <chr>   <dttm>              <dttm>              <chr>       <int>    <int>       <int>
