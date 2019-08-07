@@ -72,7 +72,7 @@ a.nav-link:active {
 .header-page {
   background-color: #333333; /* VAR: $header-bg-color */
   background-image: url("../images/banner-scr.png");
-  padding: 1.25em 0; /* padding for top and bottom only */
+  /* padding: 1.25em 0; /* padding for top and bottom only */
 }
 
 .header-home {
