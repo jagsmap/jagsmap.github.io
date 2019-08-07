@@ -3,9 +3,8 @@ title: About
 layout: default
 ---
 
-<div class="col-12">
-    <img src="{{ site.baseurl }}/images/jagsmap_navbar.png">
-</div>
+<img src="{{ site.baseurl }}/images/jagsmap_navbar.png">
+
 <br>
 <div class="row content-row">
 <div class="col-12 col-sm-3">
