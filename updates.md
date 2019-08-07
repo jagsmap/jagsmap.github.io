@@ -16,7 +16,10 @@ use_fontawesome: true
 </div>
 <div class="col-12 col-sm-8">
     <h4>Summary Statistics</h4>
-    <p class="italic">Submissions received: 5 of 150</p>
+    <br>
+    <br>
+    <p class="italic">Submissions received: 5</p>
+    <p class="italic">Total captures: 174</p>
 </div>
 </div>
 <br>
