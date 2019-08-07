@@ -14,7 +14,8 @@ use_fontawesome: true
     <br>
     <br>
     <p class="italic">Submissions received: 5</p>
-    <p class="italic">Total captures:     174</p>
+    <p class="italic">Total captures: 174</p>
+    <p class="italic">etc.</p>
 </div>
 </div>
 <br>
