@@ -5,7 +5,7 @@ layout: default
 
 <div class="row content-row">
 <div class="col-12">
-    <img src="{{ site.baseurl }}/images/jagsmap_navbar.png" class="centerImg">
+    <img src="{{ site.baseurl }}/images/jagsmap_navbar.png" class="centerImg" width="600">
 </div>
 <div class="col-12 col-sm-3">
     <img src="{{ site.baseurl }}/images/about-ct1.jpg">
