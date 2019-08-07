@@ -3,11 +3,6 @@ title: People
 layout: default
 use_fontawesome: true
 ---
-
-<!-- Research -->
-<h1 class="section-title">People</h1>
-
-<br>
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
     <br>
