@@ -5,6 +5,8 @@ use_fontawesome: true
 ---
 
 <h3>Summary Statistics</h3>
+<br>
+<h5 class="italic"> Updated August 5th, 2019</h5>
 
 ```txt
   SurveyID Survey_Name           Lat      Long    Start_Date          End_Date            Country  Stations Captures Individuals
@@ -26,7 +28,7 @@ use_fontawesome: true
     <br>
     <br>
     <img src="{{ site.baseurl }}/images/map_updates/surveys_080519.png" width="1000" style="border:1px solid #cccccc">
-    <h6 class="italic">Submitted surveys (updated August 5th, 2019).</h6>
+    <h6 class="italic">Submitted surveys.</h6>
 </div>
 </div>
 <br>  
