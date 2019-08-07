@@ -13,6 +13,13 @@
   text-align: center !important;
 }
 
+.centerImg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 a, a:link {
   color: #E1BB67;
   text-decoration: none !important;
