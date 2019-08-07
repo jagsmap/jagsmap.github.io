@@ -16,7 +16,7 @@ use_fontawesome: true
 4        3 cenap_monitora_gurupi -3.6449… -46.69… 2017-08-08 00:00:00 2017-10-24 00:00:00 Brazil         60        5           4
 5        2 cenap_pnsc_tetrapack  -8.68957 -42.58… 2016-06-12 00:00:00 2016-10-18 00:00:00 Brazil         60       65          25
 ``` 
-
+<br>
 <div class="row content-row">     
 <div class="col-12 col-sm-8">
     <p class="italic">Submissions received: 5</p>
