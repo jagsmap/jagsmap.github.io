@@ -26,8 +26,8 @@ use_fontawesome: true
 <div class="col-12 col-sm-4 image-wrapper">
     <br>
     <br>
+    <h5 class="italic">Submitted surveys.</h5>
     <img src="{{ site.baseurl }}/images/map_updates/surveys_080519.png" width="1000" style="border:1px solid #cccccc">
-    <h6 class="italic">Submitted surveys.</h6>
 </div>
 </div>
 <br>  
