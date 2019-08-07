@@ -3,10 +3,10 @@ title: About
 layout: default
 ---
 
-<img src="{{ site.baseurl }}/images/jagsmap_navbar.png">
-
-<br>
 <div class="row content-row">
+<div class="col-12">
+    <img src="{{ site.baseurl }}/images/jagsmap_navbar.png">
+</div>
 <div class="col-12 col-sm-3">
     <img src="{{ site.baseurl }}/images/about-ct1.jpg">
 </div>
