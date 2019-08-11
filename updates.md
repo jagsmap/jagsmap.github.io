@@ -21,7 +21,7 @@ use_fontawesome: true
 <div class="col-12 col-sm-8">
     <p class="italic">Submissions received: 5</p>
     <p class="italic">Total captures: 174</p>
-    <p class="italic">Area of individual suverys (km2): 326 1292 546 361 242</p>
+    <p class="italic">Area of individual suverys (km2): 326, 1292, 547, 361, 241</p>
     <p class="italic">Total area of all suverys (km2): 2767</p>
     <p class="italic">etc.</p>
 </div>
