@@ -19,11 +19,15 @@ use_fontawesome: true
 <br>
 <div class="row content-row">     
 <div class="col-12 col-sm-8">
-    <p class="italic">Submissions received: 5</p>
-    <p class="italic">Total captures: 174</p>
-    <p class="italic">Area of individual suverys (km2): 326, 1292, 547, 361, 241</p>
-    <p class="italic">Total area of all suverys (km2): 2767</p>
-    <p class="italic">etc.</p>
+  <p><b>Submissions received:</b> <i>5</b></p>
+  <p><b>Total captures:</b> <i>174</b></p>
+  <p><b>Area of individual suverys (km2):</b> <i>326, 1292, 547, 361, 241</b></p>
+  <p><b>Total area of all suverys (km2):</b> <i>2767</b></p>
+  <br>
+  <p class="italic">Total captures: 174</p>
+  <p class="italic">Area of individual suverys (km2): 326, 1292, 547, 361, 241</p>
+  <p class="italic">Total area of all suverys (km2): 2767</p>
+  <p class="italic">etc.</p>
 </div>
 <div class="col-12 col-sm-4 image-wrapper">
     <h5 class="italic">Submitted survey locations.</h5>
