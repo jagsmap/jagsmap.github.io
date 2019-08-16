@@ -5,7 +5,7 @@ use_fontawesome: true
 ---
 
 <h3>Summary Statistics</h3>
-<h6 class="italic"> Updated Fri Aug 16 11:03:27 2019 </h6>
+<h6 class="italic"> Updated Fri Aug 16 11:05:51 2019 </h6>
 <br>
 
   ```txt
@@ -26,12 +26,11 @@ use_fontawesome: true
       <p><b>Total stations:</b> <i> 241 </i></p>
       <p><b>Total captures:</b> <i> 174 </i></p>
       <p><b>Total individuals:</b> <i> 61 </i></p>
-      <p><b>Areas of suverys (km2):</b> <i> 326, 1292, 547, 360, 242 </i></p>
-      <p><b>Area of all suverys (km2):</b> <i> 2767 </i></p>
+      <p><b>Areas of suverys (km2):</b> <i> 326, 1292, 546, 361, 241 </i></p>
+      <p><b>Area of all suverys (km2):</b> <i> 2766 </i></p>
     </div>
       <div class="col-12 col-sm-4 image-wrapper">
         <h5 class="italic">Submitted survey locations.</h5>
         <img src="{{ site.baseurl }}/images/map_updates/surveys_080519.png" width="1000" style="border:1px solid #cccccc">
       </div>
     </div>
-    <br>  
