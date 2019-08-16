@@ -5,21 +5,21 @@ use_fontawesome: true
 ---
 
 <h3>Summary Statistics</h3>
-<h6 class="italic"> Updated Fri Aug 16 11:16:53 2019 </h6>
+<h6 class="italic"> Updated Fri Aug 16 11:25:50 2019 </h6>
 <br>
-<table>
+<div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:300px; overflow-x: scroll; width:100%; "><table class="table table-striped table-hover" style="margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
-   <th style="text-align:right;"> SurveyID </th>
-   <th style="text-align:left;"> Survey_Name </th>
-   <th style="text-align:left;"> Lat </th>
-   <th style="text-align:left;"> Long </th>
-   <th style="text-align:left;"> Start_Date </th>
-   <th style="text-align:left;"> End_Date </th>
-   <th style="text-align:left;"> Country </th>
-   <th style="text-align:right;"> Stations </th>
-   <th style="text-align:right;"> Captures </th>
-   <th style="text-align:right;"> Individuals </th>
+   <th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;"> SurveyID </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Survey_Name </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Lat </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Long </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Start_Date </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> End_Date </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Country </th>
+   <th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;"> Stations </th>
+   <th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;"> Captures </th>
+   <th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;"> Individuals </th>
   </tr>
  </thead>
 <tbody>
@@ -84,7 +84,7 @@ use_fontawesome: true
    <td style="text-align:right;"> 25 </td>
   </tr>
 </tbody>
-</table>
+</table></div>
 <br>
   <div class="row content-row">     
     <div class="col-12 col-sm-8">
@@ -92,8 +92,8 @@ use_fontawesome: true
       <p><b>Total stations:</b> <i> 241 </i></p>
       <p><b>Total captures:</b> <i> 174 </i></p>
       <p><b>Total individuals:</b> <i> 61 </i></p>
-      <p><b>Areas of suverys (km2):</b> <i> 326, 1292, 547, 361, 241 </i></p>
-      <p><b>Area of all suverys (km2):</b> <i> 2767 </i></p>
+      <p><b>Areas of suverys (km2):</b> <i> 326, 1293, 546, 361, 241 </i></p>
+      <p><b>Area of all suverys (km2):</b> <i> 2766 </i></p>
     </div>
       <div class="col-12 col-sm-4 image-wrapper">
         <h5 class="italic">Submitted survey locations.</h5>
