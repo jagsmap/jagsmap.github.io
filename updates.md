@@ -5,9 +5,9 @@ use_fontawesome: true
 ---
 
 <h3>Summary Statistics</h3>
-<h6 class="italic"> Updated Fri Aug 16 11:28:29 2019 </h6>
+<h6 class="italic"> Updated Fri Aug 16 11:30:10 2019 </h6>
 <br>
-<div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:300px; "><table class="table table-striped" style="font-size: 7px; margin-left: auto; margin-right: auto;">
+<div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:300px; "><table class="table table-striped" style="font-size: 12px; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
    <th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;"> SurveyID </th>
@@ -92,8 +92,8 @@ use_fontawesome: true
       <p><b>Total stations:</b> <i> 241 </i></p>
       <p><b>Total captures:</b> <i> 174 </i></p>
       <p><b>Total individuals:</b> <i> 61 </i></p>
-      <p><b>Areas of suverys (km2):</b> <i> 326, 1292, 546, 360, 241 </i></p>
-      <p><b>Area of all suverys (km2):</b> <i> 2767 </i></p>
+      <p><b>Areas of suverys (km2):</b> <i> 326, 1292, 547, 361, 242 </i></p>
+      <p><b>Area of all suverys (km2):</b> <i> 2766 </i></p>
     </div>
       <div class="col-12 col-sm-4 image-wrapper">
         <h5 class="italic">Submitted survey locations.</h5>
