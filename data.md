@@ -1,5 +1,5 @@
 ---
-title: Updates
+title: Database
 layout: default
 use_fontawesome: true
 ---
