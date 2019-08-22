@@ -10,7 +10,8 @@ header_paths:
 - about.md
 - data.md
 - people.md
-# - research.md
+- contrib.md
+
 
 ##### BUILD SETTINGS #####
 # incremental: true
