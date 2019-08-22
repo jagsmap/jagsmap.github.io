@@ -8,8 +8,8 @@ highlighter: rouge
 # default links by defining a `site.header_paths` array:
 header_paths:
 - about.md
+- data.md
 - people.md
-- updates.md
 # - research.md
 
 ##### BUILD SETTINGS #####
