@@ -17,7 +17,7 @@ use_fontawesome: true
       <p><b>Number of Surveys:</b> <i> 12 </i></p>
       <p><b>Total stations:</b> <i> 545 </i></p>
       <p><b>Total captures:</b> <i> 867 </i></p>
-      <p><b>Total individuals:</b> <i> 183 </i></p>
-      <p><b>Area of all suverys (km<sup>2</sup>):</b> <i> 4405 </i></p>
+      <p><b>Total individuals2:</b> <i> 183 </i></p>
+      <p><b>Area of all suverys (km<sup>2</sup>):</b> <i> 4407 </i></p>
     </div>
     </div>
