@@ -7,8 +7,6 @@ use_fontawesome: true
 <h3>Summary Statistics</h3>
 <h6 class="italic"> Updated Tue Aug 27 17:07:37 2019 </h6>
 <br>
-
-<br>
   <div class="row content-row">     
     <div class="col-12 col-sm-8">
       <p><b>Number of Surveys:</b> <i> 12 </i></p>
