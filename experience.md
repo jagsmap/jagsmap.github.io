@@ -24,9 +24,9 @@ use_fontawesome: true
     </h8>
     <br>
     <ul>
-        <li>Collaborating with partners to consolidate range-wide camera trap data of Jaguars</li>
-        <li>Compiling remote sensing data (environmental covariates) throughout Jaguar range</li>
-        <li>Estimating range-wide spatial variation in population density of Jaguars using SCR models</li>
+        <li>Built a website and database to compile camera trap survey data throughout Jaguar range</li>
+        <li>Compiled spatial covariate data throughout Jaguar range</li>
+        <li>Designed a simulation study to test and develop methods for species distirbution modeling in a simulation study</li>
     </ul>
     <br>
     <p><span class="bold">Mentors:</span> Dr. Mathias Tobler</p>
