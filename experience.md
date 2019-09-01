@@ -26,7 +26,7 @@ use_fontawesome: true
     <ul>
         <li>Built a website and database to compile camera trap survey data throughout Jaguar range</li>
         <li>Compiled spatial covariate data throughout Jaguar range</li>
-        <li>Designed a simulation study to test and develop methods for species distirbution modeling</li>
+        <li>Designed a simulation study to test and develop methods for species distribution modeling</li>
     </ul>
     <br>
     <p><span class="bold">Mentors:</span> Dr. Mathias Tobler</p>
