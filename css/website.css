@@ -79,6 +79,7 @@ a.nav-link:active {
 .header-page {
   background-color: #333333; /* VAR: $header-bg-color */
   background-image: url("../images/banner-scr.png");
+  max-height: 150px;
   /* padding: 1.25em 0; /* padding for top and bottom only */
 }
 
