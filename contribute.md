@@ -13,9 +13,7 @@ use_fontawesome: true
 
 <center>
 <a class="btn btn-secondary" href="{{ site.baseurl }}/attachments/JaguarCameraTrapData.xlsx">
-    <i class="far fa-file-pdf"></i> Contribute</a>
+    <i class="far fa-file-pdf"></i>  Data Form</a>
 </center>
-    
-<center><button type="button"><a href="{{ site.baseurl }}/attachments/JaguarCameraTrapData.xlsx">Data Form</a></button></center>
 
 </div>
