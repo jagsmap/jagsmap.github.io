@@ -12,8 +12,9 @@ use_fontawesome: true
 <p>You can follow our data compilation efforts through this site and we will provide you with regular updates on the progress of our analyses and consult you for associated environmental and anthropogenic parameters and local contexts that are often necessary to interpret and refine results.</p>
 
 <center>
-<a class="btn btn-secondary" href="{{ site.baseurl }}/attachments/JaguarCameraTrapData.xlsx">
-    <i class="far fa-file-excel"></i> Data Form</a>
+    <a class="btn btn-secondary" href="{{ site.baseurl }}/attachments/JaguarCameraTrapData.xlsx" target="_blank">
+        <i class="far fa-file-excel"></i> Data Form
+    </a>
 </center>
 
 </div>
