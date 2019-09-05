@@ -13,4 +13,10 @@ use_fontawesome: true
 
 <p><a href="{{ site.baseurl }}/attachments/JaguarCameraTrapData.xlsx">Data Form</a></p>
 
+<button type="button"><a href="{{ site.baseurl }}/attachments/JaguarCameraTrapData.xlsx">Data Form</a></button>
+
+<p><button type="button"><a href="{{ site.baseurl }}/attachments/JaguarCameraTrapData.xlsx">Data Form</a></button></p>
+
+<center><button type="button"><a href="{{ site.baseurl }}/attachments/JaguarCameraTrapData.xlsx">Data Form</a></button></center>
+
 </div>
