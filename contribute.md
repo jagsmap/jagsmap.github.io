@@ -13,7 +13,7 @@ use_fontawesome: true
 
 <center>
 <a class="btn btn-secondary" href="{{ site.baseurl }}/attachments/JaguarCameraTrapData.xlsx">
-    <i class="far fa-file-excel-o"></i>  Data Form</a>
+    <i class="far fa-file-excel"></i>  Data Form</a>
 </center>
 
 </div>
