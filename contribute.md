@@ -11,10 +11,10 @@ use_fontawesome: true
 <p>If you have jaguar camera trap data that you would like to contribute to this effort, please use the  Excel data form below and email it to Mathias Tobler (<a href = "mailto: mtobler@sandiegozoo.org">mtobler@sandiegozoo.org</a>). If you need help converting your data into that format don’t hesitate to contact us and we will be happy to help.</p>
 <p>You can follow our data compilation efforts through this site and we will provide you with regular updates on the progress of our analyses and consult you for associated environmental and anthropogenic parameters and local contexts that are often necessary to interpret and refine results.</p>
 
-
+<center>
 <a class="btn btn-secondary" href="{{ site.baseurl }}/attachments/JaguarCameraTrapData.xlsx">
-    <i class="far fa-file-pdf"></i>Contribute</a>
-
+    <i class="far fa-file-pdf"></i> Contribute</a>
+</center>
     
 <center><button type="button"><a href="{{ site.baseurl }}/attachments/JaguarCameraTrapData.xlsx">Data Form</a></button></center>
 
