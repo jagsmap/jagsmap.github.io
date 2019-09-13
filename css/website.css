@@ -74,6 +74,7 @@ a.nav-link:active {
   font-weight: bold;
   text-align: center;
   text-shadow: 0 0 1.5em black;
+  vertical-align: middle;
 }
 
 .header-page {
