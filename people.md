@@ -21,7 +21,7 @@ use_fontawesome: true
     <img src="{{ site.baseurl }}/images/people/ChrisSutherland.png" width="250">
 </div>
 <div class="col-12 col-sm-8">
-    <p><h4>Chris Sutherland, PhD <a href="https://www.sutherlandecology.com">SutherlandEcology.com</a></h4>
+    <p><h4>Chris Sutherland, PhD <a href="https://www.sutherlandecology.com">SutherlandEcology.com</a></h4></p>
     <p class="italic">University of Massachusetts Amherst</p>
     <p>Chris Sutherland is an Assistant Professor (Quantitative Ecology) at the University of Massachusetts-Amherst. He is interested in movement, dispersal and connectivity, specifically understanding how large-scale biological patterns emerge as a result of how organisms use space at a variety of spatial and temporal scales. His work involves developing biologically realistic statistical models for observational data collected at all levels of organization – typically using hierarchical models. Chris’s research balances methodological development with a strong focus on the application of these tools to biological systems to solve real-world problems. </p>
 </div>
