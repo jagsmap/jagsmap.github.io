@@ -11,7 +11,7 @@ header_paths:
 - data.md
 - news.md
 - people.md
-- about.md
+# - about.md
 
 
 ##### BUILD SETTINGS #####
