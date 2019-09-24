@@ -7,12 +7,11 @@ highlighter: rouge
 # attribute, so long as the title does not include "404". Override the
 # default links by defining a `site.header_paths` array:
 header_paths:
-- about.md
-- news.md
 - contribute.md
 - data.md
+- news.md
 - people.md
-
+- about.md
 
 
 ##### BUILD SETTINGS #####
