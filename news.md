@@ -30,7 +30,7 @@ use_fontawesome: true
       <a class="twitter-timeline" 
          data-width="400" 
          data-height="500" 
-         data-link-color="#678DE1" 
+         data-link-color="#DA6854" 
          href="https://twitter.com/jagsmap?ref_src=twsrc%5Etfw">Tweets by jagsmap</a> 
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
