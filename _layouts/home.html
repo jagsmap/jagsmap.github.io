@@ -13,22 +13,3 @@ layout: default
         <p><i>Network</i> - We will adopt an inclusive approach to research and data sharing. We are looking to collaborate directly with the people who collected the data to develop co-produced understanding of jaguar spatial ecology across the entire range.</p>
     </div>
 </center>
-
-<h2>Latest Posts</h2>
-
-<ul class="post-list">
-{%- for post in site.posts -%}
-  <li>
-
-    {%- assign date_format = site.cayman-blog.date_format | default: "%b %-d, %Y" -%}
-    <span class="post-meta">{{ post.date | date: date_format }}</span>
-
-    <h2>
-      <a class="post-link" href="{{ post.url | relative_url }}" title="{{ post.title }}">{{ post.title | escape }}</a>
-    </h2>
-
-    <span>{{ post.excerpt | markdownify | truncatewords: 50 }}</span>
-
-  </li>
-{%- endfor -%}
-</ul>
