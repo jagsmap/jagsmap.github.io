@@ -55,14 +55,17 @@ img {
  ******************/
 
 a.nav-link {
+  font-weight: bold !important;
   color: #678DE1 !important;
 }
 
 a.nav-link:hover {
+  font-weight: bold !important;
   color: #3C6DD9 !important;
 }
 
 a.nav-link:active {
+  font-weight: bold !important;
   color: #2554BD !important;
 }
 
