@@ -21,9 +21,10 @@ use_fontawesome: true
     <img src="{{ site.baseurl }}/images/people/ChrisSutherland.png" width="250">
 </div>
 <div class="col-12 col-sm-8">
-    <p><h4>Chris Sutherland, PhD  –  <a href="https://www.sutherlandecology.com" target="_blank">SutherlandEcology.com</a></h4></p>
+    <p><h4>Chris Sutherland, PhD  –  <a href="https://www.sutherlandecology.com" target="_blank">SutherlandEcology.com</a
+    </h4></p>
     <p class="italic">University of Massachusetts Amherst</p>
-    <p>Chris Sutherland is an Assistant Professor (Quantitative Ecology) at the University of Massachusetts-Amherst. He is interested in movement, dispersal and connectivity, specifically understanding how large-scale biological patterns emerge as a result of how organisms use space at a variety of spatial and temporal scales. His work involves developing biologically realistic statistical models for observational data collected at all levels of organization – typically using hierarchical models. Chris’s research balances methodological development with a strong focus on the application of these tools to biological systems to solve real-world problems. </p>
+    <p>Chris Sutherland is an Assistant Professor (Quantitative Ecology) at the University of Massachusetts-Amherst. He is interested in movement, dispersal and connectivity, specifically understanding how large-scale biological patterns emerge as a result of how organisms use space at a variety of spatial and temporal scales. His work involves developing biologically realistic statistical models for observational data collected at all levels of organization – typically using hierarchical models. Chris’s research balances methodological development with a strong focus on the application of these tools to biological systems to solve real-world problems.</p>
 </div>
 </div>
 
@@ -35,11 +36,12 @@ use_fontawesome: true
 <div class="col-12 col-sm-8">
     <h4>Andy Royle, PhD</h4>
     <p class="italic">United States Geological Survey</p>
-    <p>Andy Royle is a Senior Scientist at USGS Patuxent Wildlife Research Center.  He holds a BS in Wildlife Management from Michigan State University and a PhD in Statistics from North Carolina State University. At Patuxent, he is engaged in the development of statistical methods and analytic tools for animal demographic modeling, statistical inference and sampling wildlife populations and communities. His current research is focused on hierarchical models of animal abundance and occurrence, and the development of spatial capture-recapture methods and applications. He has authored or coauthored 5 books on quantitative analysis in ecology, including the recent book Applied Hierarchical Models (2016, with Marc Kéry).</p>
+    <p>Andy Royle is a Senior Scientist at USGS Patuxent Wildlife Research Center. He holds a BS in Wildlife Management from Michigan State University and a PhD in Statistics from North Carolina State University. At Patuxent, he is engaged in the development of statistical methods and analytic tools for animal demographic modeling, statistical inference and sampling wildlife populations and communities. His current research is focused on hierarchical models of animal abundance and occurrence, and the development of spatial capture-recapture methods and applications. He has authored or coauthored five books on quantitative analysis in ecology, including the recent book Applied Hierarchical Models (2016, with Marc Kéry).</p>
 </div>
 </div>
 
-<br>
+<hr>
+
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
     <img src="{{ site.baseurl }}/images/people/GatesDupont.jpg" width="250">
