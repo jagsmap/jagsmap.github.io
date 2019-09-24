@@ -31,12 +31,12 @@ a, a:visited {
 }
 
 a, a:hover{
-  color: #9E7A2C;
+  color: #678DE1;
   text-decoration: none !important;
 }
 
 a, a:active {
-  color: #9E7A2C;
+  color: #678DE1;
   text-decoration: none !important;
 }
 
@@ -83,7 +83,7 @@ a.nav-link:active {
   background-size: cover;
   max-height: 150px;
   width: 100%;
-  background-color: #333333; /* VAR: $header-bg-color */
+  background-color: #678DE1; /* VAR: $header-bg-color */
   padding: 2.00em 0; /* padding for top and bottom only */
 }
 
@@ -118,7 +118,7 @@ ul.contact {
   color: white !important;
   border: 3px solid white;
   box-shadow: 0 0 1.5em black;
-  background-color: #63666a;
+  background-color: #678DE1;
 }
 
 .contact a:hover,
