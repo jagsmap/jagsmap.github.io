@@ -55,7 +55,7 @@ img {
  ******************/
 
 a.nav-link {
-  color: #B6BDCA;
+  color: #B6BDCA !important;
 }
 
 a.nav-link:hover {
@@ -63,7 +63,7 @@ a.nav-link:hover {
 }
 
 a.nav-link:active {
-  color: #3E4951;
+  color: #3E4951 !important;
 }
 
 /*******************
