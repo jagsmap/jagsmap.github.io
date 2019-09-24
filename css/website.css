@@ -55,18 +55,15 @@ img {
  ******************/
 
 a.nav-link {
-  font-weight: bold !important;
-  color: #678DE1 !important;
+  color: gray !important;
 }
 
 a.nav-link:hover {
-  font-weight: bold !important;
-  color: #3C6DD9 !important;
+  color: black !important;
 }
 
 a.nav-link:active {
-  font-weight: bold !important;
-  color: #2554BD !important;
+  color: black !important;
 }
 
 /*******************
