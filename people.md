@@ -48,5 +48,8 @@ use_fontawesome: true
     <h4>Gates Dupont</h4>
     <p class="italic">University of Massachusetts Amherst</p>
     <p>Gates graduated from Cornell University in 2019 where he gained an interest in quantitative ecology through his research at the Cornell Lab of Ornithology. After graduating, he was a summer fellow at the San Diego Zoo's Institute for Conservation Research working on this project with Dr. Mathias Tobler. Currently, he's a Masters student with Dr. Chris Sutherland at UMass Amherst where he's developing optimal sampling design methods for spatial capture-recapture modeling, which will be applied to a similar range-wide analysis of snow leopards.</p>
+    <p>
+        <a href = "http://www.gatesdupont.github.io">GatesDupont.GitHub.io</a>
+    </p>
 </div>
 </div>
