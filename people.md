@@ -15,7 +15,8 @@ use_fontawesome: true
 </div>
 </div>
 
-<br>
+<hr>
+
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
     <img src="{{ site.baseurl }}/images/people/ChrisSutherland.png" width="250">
