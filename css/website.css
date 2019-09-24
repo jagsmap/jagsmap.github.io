@@ -59,7 +59,7 @@ a.nav-link {
 }
 
 a.nav-link:hover {
-  color: #3E4951;
+  color: #3E4951 !important;
 }
 
 a.nav-link:active {
