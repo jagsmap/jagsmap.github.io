@@ -27,7 +27,6 @@ use_fontawesome: true
   </ul>
 </div>
 <div class="col-12 col-sm-9">
-  <center>
       <a class="twitter-timeline" 
          data-width="350" 
          data-height="500" 
@@ -35,7 +34,6 @@ use_fontawesome: true
          href="https://twitter.com/jagsmap?ref_src=twsrc%5Etfw"
          >Tweets by jagsmap</a> 
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  </center>
 </div>
 </div>
 
