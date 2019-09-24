@@ -16,7 +16,6 @@ use_fontawesome: true
 </div>
 </div>
 
-<hr>
 <br>
 
 <div class="row content-row">
@@ -32,7 +31,6 @@ use_fontawesome: true
 </div>
 </div>
 
-<hr>
 <br>
 
 <div class="row content-row">
@@ -46,12 +44,11 @@ use_fontawesome: true
 </div>
 </div>
 
-<hr>
 <br>
 
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
-    <img src="{{ site.baseurl }}/images/people/GatesDupont.jpg" width="300">
+    <img src="{{ site.baseurl }}/images/people/GatesDupont.jpg" width="250">
 </div>
 <div class="col-12 col-sm-8">
     <p><h4>Gates Dupont  –  <a href = "http://gatesdupont.github.io" target="_blank">GatesDupont.GitHub.io</a></h4></p>
