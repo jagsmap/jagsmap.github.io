@@ -21,22 +21,22 @@
 }
 
 a, a:link {
-  color: #E1BB67;
+  color: #29425B;
   text-decoration: none !important;
 }
 
 a, a:visited {
-  color: #E1BB67;
+  color: #29425B;
   text-decoration: none !important;
 }
 
 a, a:hover{
-  color: #678DE1;
+  color: #E1BB67;
   text-decoration: none !important;
 }
 
 a, a:active {
-  color: #678DE1;
+  color: #E1BB67;
   text-decoration: none !important;
 }
 
@@ -118,7 +118,7 @@ ul.contact {
   color: white !important;
   border: 3px solid white;
   box-shadow: 0 0 1.5em black;
-  background-color: #678DE1;
+  background-color: #E1BB67;
 }
 
 .contact a:hover,
