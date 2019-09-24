@@ -55,15 +55,15 @@ img {
  ******************/
 
 a.nav-link {
-  color: #3C6DD9 !important;
+  color: #678DE1 !important;
 }
 
 a.nav-link:hover {
-  color: #678DE1 !important;
+  color: #3C6DD9 !important;
 }
 
 a.nav-link:active {
-  color: #678DE1 !important;
+  color: #2554BD !important;
 }
 
 /*******************
