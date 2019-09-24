@@ -177,6 +177,7 @@ ul.contact {
 
 /* Make buttons rectangular: override the Bootstrap default */
 .btn {
+  background-color: #E1BB67;
   border-radius: 0;
   transition: all .3s ease-in-out;
 }
