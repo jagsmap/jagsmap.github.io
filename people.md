@@ -35,7 +35,7 @@ use_fontawesome: true
 <div class="col-12 col-sm-8">
     <h4>Andy Royle, PhD</h4>
     <p class="italic">United States Geological Survey</p>
-    <p>Andy Royle has been with Patuxent Wildlife Research Center since 2004. Before that he was a statistician (1998-2004) for the U.S. FWS in the Migratory Bird Management Office where he worked primarily on waterfowl surveys and monitoring projects. Prior to that he was a visiting scientist in the Geophysical Statistics Project at the National Center for Atmospheric Reserach, Boulder, CO. He has a PhD in Statistics (1996) from North Carolina State University and a BS in Fisheries and Wildlife (1990) from Michigan State University.</p>
+    <p>Andy Royle is a Senior Scientist at USGS Patuxent Wildlife Research Center.  He holds a BS in Wildlife Management from Michigan State University and a PhD in Statistics from North Carolina State University. At Patuxent, he is engaged in the development of statistical methods and analytic tools for animal demographic modeling, statistical inference and sampling wildlife populations and communities. His current research is focused on hierarchical models of animal abundance and occurrence, and the development of spatial capture-recapture methods and applications. He has authored or coauthored 5 books on quantitative analysis in ecology, including the recent book Applied Hierarchical Models (2016, with Marc Kéry).</p>
 </div>
 </div>
 
