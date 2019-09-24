@@ -6,7 +6,7 @@ use_fontawesome: true
 
 
 <div class="row content-row">
-<div class="col-12 col-sm-9">
+<div class="col-12 col-sm-8">
   <h2>Latest Posts</h2>
 
   <ul class="post-list">
@@ -26,7 +26,7 @@ use_fontawesome: true
   {%- endfor -%}
   </ul>
 </div>
-<div class="col-12 col-sm-3">
+<div class="col-12 col-sm-4">
       <a class="twitter-timeline" 
          data-width="350" 
          data-height="500" 
