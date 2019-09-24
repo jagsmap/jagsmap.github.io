@@ -16,6 +16,7 @@ use_fontawesome: true
 </div>
 
 <hr>
+<br>
 
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
@@ -30,6 +31,7 @@ use_fontawesome: true
 </div>
 
 <hr>
+<br>
 
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
@@ -43,6 +45,7 @@ use_fontawesome: true
 </div>
 
 <hr>
+<br>
 
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
