@@ -194,7 +194,7 @@ ul.contact {
 .btn {
   color: white !important;
   border: 3px solid white;
-  box-shadow: 0 0 0.5em #DA6854;
+  box-shadow: 0 0 0.5em black;
   background-color: #E1BB67;
   border-radius: 0;
   transition: all .3s ease-in-out;
