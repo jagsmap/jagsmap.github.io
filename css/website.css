@@ -74,11 +74,11 @@ a.nav-link {
 }
 
 a.nav-link:hover {
-  color: #DA6854 !important;
+  color: #3E4951 !important;
 }
 
 a.nav-link:active {
-  color: #3E4951 !important;
+  color: #DA6854 !important;
 }
 
 /*******************
