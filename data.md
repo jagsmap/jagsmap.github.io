@@ -11,7 +11,7 @@ use_map: true
 <div class="row content-row"> 
   <div class="col-12 col-sm-6 image-wrapper">
       <h5 class="italic">Submitted survey locations: 31</h5>
-      <div id="mapid" style="width: 550px; height: 550px; position: relative;"></div>
+      <div id="mapid" style="width: 450px; height: 450px; position: relative;"></div>
   </div>
   <div class="col-12 col-sm-6 image-wrapper">
     <h5 class="italic">Data Summary</h5>
