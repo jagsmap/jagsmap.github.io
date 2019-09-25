@@ -23,14 +23,12 @@ use_map: true
 var map = new L.map('mapid').setView([-10, -80], 3);
 
 var osmUrl='https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
-var osmAttrib='Map data © <a href="https://openstreetmap.org">OpenStreetMap</a> contributors';
+var osmAttrib='Map data Â© <a href="https://openstreetmap.org">OpenStreetMap</a> contributors';
 var osm = new L.TileLayer(osmUrl, {minZoom: 1, maxZoom: 12, attribution: osmAttrib});		
 
 map.addLayer(osm);
 
-var LeafIcon = L.Icon.extend({
-options: {iconSize:     [10, 10]}
-});
+var LeafIcon = L.Icon.extend({options: {iconSize:     [10, 10]}});
 
 var mapmarker = new LeafIcon({iconUrl: 'images/marker.gif'});
 L.marker([14.08331,-84.4994],{icon: mapmarker}).addTo(map).bindPopup("<b>Bosawas_Cola_Blanca_2012</b></br>Individual: 2</br>Stations: 9");
@@ -46,8 +44,8 @@ L.marker([-11.48,-69.84],{icon: mapmarker}).addTo(map).bindPopup("<b>Espinoza 20
 L.marker([-11.46,-69.7],{icon: mapmarker}).addTo(map).bindPopup("<b>Espinoza 2014</b></br>Individual: 43</br>Stations: 89");
 L.marker([-25.760693,-54.267902],{icon: mapmarker}).addTo(map).bindPopup("<b>Green Corridor I</b></br>Individual: 12</br>Stations: 80");
 L.marker([-25.760693,-54.267902],{icon: mapmarker}).addTo(map).bindPopup("<b>Green Corridor II</b></br>Individual: 30</br>Stations: 117");
-L.marker([-25.810921,-54.299419],{icon: mapmarker}).addTo(map).bindPopup("<b>Iguazú-Urugua-í</b></br>Individual: 14</br>Stations: 46");
-L.marker([10.94477,-84.27161],{icon: mapmarker}).addTo(map).bindPopup("<b>Indio-Maíz_2009</b></br>Individual: 7</br>Stations: 29");
+L.marker([-25.810921,-54.299419],{icon: mapmarker}).addTo(map).bindPopup("<b>IguazÃº-Urugua-Ã­</b></br>Individual: 14</br>Stations: 46");
+L.marker([10.94477,-84.27161],{icon: mapmarker}).addTo(map).bindPopup("<b>Indio-MaÃ­z_2009</b></br>Individual: 7</br>Stations: 29");
 L.marker([-1.70639,-76.00833],{icon: mapmarker}).addTo(map).bindPopup("<b>Keweriono</b></br>Individual: 9</br>Stations: 23");
 L.marker([-1.01361,-77.12417],{icon: mapmarker}).addTo(map).bindPopup("<b>Lorocachi</b></br>Individual: 15</br>Stations: 26");
 L.marker([-12.54,-70.06],{icon: mapmarker}).addTo(map).bindPopup("<b>Los Amigos 2005</b></br>Individual: 10</br>Stations: 24");
