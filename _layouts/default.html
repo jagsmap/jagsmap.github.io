@@ -58,7 +58,9 @@ layout: compress
 
     {% include footer.html %}
   </div>
-
+  {%- if page.use_map -%}
+  <script src="{{ site.baseurl }}/js/maps.js"></script>
+  {%- endif -%}
 <!-- jQuery: necessary for Bootstrap's JavaScript plugins -->
 <!-- Popper.js: required for Bootstrap tooltips -->
 <!-- Bootstrap JS -->
