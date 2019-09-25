@@ -7,7 +7,7 @@ use_map: true
 
 <h3>Summary Statistics</h3>
 <h6 class="italic"> Updated Tue Sep 24 2019 </h6>
-</br>
+<p></p>
 <div class="row content-row"> 
   <div class="col-12 col-sm-6 image-wrapper">
       <h5 class="italic">Submitted survey locations: 31</h5>
