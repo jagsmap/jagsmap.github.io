@@ -3,8 +3,6 @@ title: Database
 layout: default
 use_fontawesome: true
 ---
-<link rel="stylesheet" href="js/leaflet.css" />
-<script src="js/leaflet.js"></script>
 
 <h3>Summary Statistics</h3>
 <h6 class="italic"> Updated Tue Sep 24 2019 </h6>

@@ -23,6 +23,11 @@ layout: compress
     <link rel="stylesheet" href="{{ site.baseurl }}/css/rouge-github.css">
   {%- endif -%}
 
+  {%- if page.use_map -%}
+  <link rel="stylesheet" href="{{ site.baseurl }}/js/leaflet.css" />
+  <script src="{{ site.baseurl }}/js/leaflet.js"></script>
+  {%- endif -%}
+
   {%- if page.use_math -%}
     <script type="text/javascript" async
       src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_CHTML-full">
