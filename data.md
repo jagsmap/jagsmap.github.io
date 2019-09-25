@@ -2,6 +2,7 @@
 title: Database
 layout: default
 use_fontawesome: true
+use_map: true
 ---
 
 <h3>Summary Statistics</h3>
