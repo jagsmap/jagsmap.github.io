@@ -36,12 +36,12 @@ body {
 }
 
 a, a:link {
-  color: #1c4c87;
+  color: #0f66d1;
   text-decoration: none !important;
 }
 
 a, a:visited {
-  color: #1c4c87;
+  color: #0f66d1;
   text-decoration: none !important;
 }
 
@@ -133,7 +133,7 @@ ul.contact {
   color: white !important;
   border: 3px solid white;
   box-shadow: 0 0 1.5em black;
-  background-color: #1c4c87;
+  background-color: #0f66d1;
 }
 
 .contact a:hover,
