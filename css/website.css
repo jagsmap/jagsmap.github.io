@@ -36,17 +36,17 @@ body {
 }
 
 a, a:link {
-  color: #DA6854;
+  color: #264948;
   text-decoration: none !important;
 }
 
 a, a:visited {
-  color: #DA6854;
+  color: #264948;
   text-decoration: none !important;
 }
 
 a, a:hover{
-  color: #CE452D;
+  color: #E1BB67;
   text-decoration: none !important;
 }
 
@@ -70,15 +70,15 @@ img {
  ******************/
 
 a.nav-link {
-  color: #B6BDCA;
+  color: gray;
 }
 
 a.nav-link:hover {
-  color: #3E4951 !important;
+  color: black !important;
 }
 
 a.nav-link:active {
-  color: #DA6854 !important;
+  color: black !important;
 }
 
 /*******************
@@ -133,7 +133,7 @@ ul.contact {
   color: white !important;
   border: 3px solid white;
   box-shadow: 0 0 1.5em black;
-  background-color: #CE452D;
+  background-color: #264948;
 }
 
 .contact a:hover,
